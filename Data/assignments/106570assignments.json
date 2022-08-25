@@ -1,0 +1,1396 @@
+[
+    {
+        "id": 199389,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p>Form available here:</p>\n<p><a class=\"instructure_file_link inline_disabled\" href=\"https://melbourneuni.au1.qualtrics.com/jfe/form/SV_0cF91xlC8iQKsRM\" target=\"_blank\">https://melbourneuni.au1.qualtrics.com/jfe/form/SV_0cF91xlC8iQKsRM</a></p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": "2021-03-07T12:59:59Z",
+        "unlock_at": "2021-02-21T13:00:00Z",
+        "lock_at": "2021-03-07T12:59:59Z",
+        "points_possible": null,
+        "grading_type": "not_graded",
+        "assignment_group_id": 214103,
+        "grading_standard_id": null,
+        "created_at": "2021-02-11T06:03:05Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 1,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": null,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjA1ZTVhNmZiLTA3MGMtNGYyYS1iNjA5LTEyOGM3MThmN2ZhNSIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZUZvcm0gYXZhaWxhYmxlIGhlcmU6XHUwMDNjL3BcdTAwM2VcclxuXHUwMDNjcFx1MDAzZVx1MDAzY2EgY2xhc3M9XCJpbnN0cnVjdHVyZV9maWxlX2xpbmsgaW5saW5lX2Rpc2FibGVkXCIgaHJlZj1cImh0dHBzOi8vbWVsYm91cm5ldW5pLmF1MS5xdWFsdHJpY3MuY29tL2pmZS9mb3JtL1NWXzBjRjkxeGxDOGlRS3NSTVwiIHRhcmdldD1cIl9ibGFua1wiXHUwMDNlaHR0cHM6Ly9tZWxib3VybmV1bmkuYXUxLnF1YWx0cmljcy5jb20vamZlL2Zvcm0vU1ZfMGNGOTF4bEM4aVFLc1JNXHUwMDNjL2FcdTAwM2VcdTAwM2MvcFx1MDAzZSJ9.8297cSRogT_DCKQa22KkJLeQ_kh1wpg09_PSqOyKo10",
+        "lti_context_id": "05e5a6fb-070c-4f2a-b609-128c718f7fa5",
+        "course_id": 106570,
+        "name": "SWEN90009 2021 Team Form",
+        "submission_types": [
+            "not_graded"
+        ],
+        "has_submitted_submissions": false,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": false,
+        "is_quiz_assignment": false,
+        "can_duplicate": true,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/199389",
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/199389/submissions?zip=1",
+        "post_manually": false,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 198632,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p><span>Hi All,</span></p>\n<p><span>I added the Industry Software Project <span class=\"markriefljqfi\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\">Letter</span>&nbsp;<span class=\"mark88ox7m8st\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\">Agreement</span> document for our subject (SWEN90009 - 2021) <span style=\"font-size: 14pt;\"><a class=\"instructure_file_link instructure_scribd_file\" title=\"StudentDEED.pdf\" href=\"https://unimelb-prod.instructure.com/courses/106570/files/6630901?verifier=hj8zSlNbA9ZapY5p6lxDRk1ED332bUpgaQ2OlEo7&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://unimelb-prod.instructure.com/api/v1/courses/106570/files/6630901\" data-api-returntype=\"File\">here</a>.</span>&nbsp;<br></span></p>\n<div><span>Every student is required to sign an IP agreement signing over the IP to the University. The agreement is the standard one developed in conjunction with&nbsp; the University legal team. Please be in touch with the Subject Coordinator if you have any questions. If the client is an external entity,&nbsp; the University then signs an appropriate agreement effectively giving the IP to the company, as they are really the only entity who can maintain the IP going forward. The easiest way is for you to submit the signed agreement electronically. <strong>This is an unmarked assignment that you need to complete by March 21.</strong></span></div>\n<p>Thank you very much for your help and time.</p>\n<div>Best,</div>\n<div>&nbsp;Eduardo.</div>\n<p><br><br></p>\n<h2><strong><span style=\"color: #3598db;\">What do you need to do?</span></strong></h2>\n<p><strong><span style=\"color: #000000;\">1. Download the document <a class=\"instructure_file_link instructure_scribd_file\" title=\"StudentDEED.pdf\" href=\"https://unimelb-prod.instructure.com/courses/106570/files/6630901?verifier=hj8zSlNbA9ZapY5p6lxDRk1ED332bUpgaQ2OlEo7&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://unimelb-prod.instructure.com/api/v1/courses/106570/files/6630901\" data-api-returntype=\"File\">here</a></span></strong></p>\n<p><strong>2. Open the PDF file in Adobe Acrobat Reader</strong></p>\n<p><strong>3. On Page 1, click on Fill &amp; Sign&nbsp;in the&nbsp;Tools&nbsp;pane on the right</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><span style=\"color: #000000;\">Add the date you signed the document: day, month and year</span></li>\n<li><span style=\"color: #000000;\">Provide your full name, address and telephone to the document</span></li>\n</ul>\n</li>\n</ul>\n<p>(page 1) <img style=\"max-width: 640px; max-height: 320px;\" src=\"https://unimelb-prod.instructure.com/courses/106570/files/6630878/preview?verifier=DgXA6SuGGtNVjXxDiPJbQaYM85Q7N3Zv6sUt0DDS\" alt=\"edit1.png\" data-api-endpoint=\"https://unimelb-prod.instructure.com/api/v1/courses/106570/files/6630878\" data-api-returntype=\"File\"></p>\n<p><strong>4. On Page 3, click on Fill &amp; Sign&nbsp;in the&nbsp;Tools&nbsp;pane on the right</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul style=\"list-style-type: circle;\">\n<li><span style=\"color: #000000;\">Add your full name between the ( parenthesis )</span></li>\n<li><span style=\"color: #000000;\">Add the full name of your Witness (another team member or your supervisor)</span></li>\n</ul>\n</li>\n</ul>\n<p><span style=\"color: #000000;\">(page 3) <img style=\"max-width: 640px; max-height: 320px;\" src=\"https://unimelb-prod.instructure.com/courses/106570/files/6630877/preview?verifier=Yi5oMnsVWU9mUbCnIOum03jWF8oUbULstAxflSBq\" alt=\"edit2.png\" data-api-endpoint=\"https://unimelb-prod.instructure.com/api/v1/courses/106570/files/6630877\" data-api-returntype=\"File\"></span></p>\n<p><strong>5. Click Sign,&nbsp;and then select&nbsp;Add Signature</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul style=\"list-style-type: circle;\">\n<li>Sign the document under your name</li>\n</ul>\n</li>\n</ul>\n<p><strong>6. A popup will open, giving you three options\u2014Type,&nbsp;Draw, and&nbsp;Image.&nbsp;Once you\u2019re done, click the&nbsp;Apply&nbsp;button.</strong></p>\n<p><strong>7. Drag, resize and position the signature inside your PDF file.</strong></p>\n<p><strong>8. Ask your witness to sign your document</strong></p>\n<p>&nbsp;</p>\n<p><span style=\"background-color: #f1c40f;\"><strong>DEADLINE: 21 March 2021</strong></span></p>\n<p>&nbsp;</p>\n<h2><strong><span style=\"color: #3598db;\">Industry Software Project <span class=\"markriefljqfi\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\">Letter</span>&nbsp;<span class=\"mark88ox7m8st\" data-markjs=\"true\" data-ogac=\"\" data-ogab=\"\" data-ogsc=\"\" data-ogsb=\"\">Agreement</span> document</span></strong></h2>\n<h4><a class=\"instructure_file_link instructure_scribd_file\" title=\"StudentDEED.pdf\" href=\"https://unimelb-prod.instructure.com/courses/106570/files/6630901?verifier=hj8zSlNbA9ZapY5p6lxDRk1ED332bUpgaQ2OlEo7&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://unimelb-prod.instructure.com/api/v1/courses/106570/files/6630901\" data-api-returntype=\"File\"><span style=\"color: #3598db;\">StudentDEED.pdf</span></a></h4><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": "2021-03-21T12:59:59Z",
+        "unlock_at": null,
+        "lock_at": "2021-03-31T12:59:59Z",
+        "points_possible": 0.0,
+        "grading_type": "pass_fail",
+        "assignment_group_id": 214103,
+        "grading_standard_id": null,
+        "created_at": "2021-02-09T23:45:14Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 2,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": null,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": true,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjhhNjJlNWQ5LWZjNTAtNDMzYi05ODFhLWU2NzBiYTYxODM5MyIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZVx1MDAzY3NwYW5cdTAwM2VIaSBBbGwsXHUwMDNjL3NwYW5cdTAwM2VcdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZVx1MDAzY3NwYW5cdTAwM2VJIGFkZGVkIHRoZSBJbmR1c3RyeSBTb2Z0d2FyZSBQcm9qZWN0IFx1MDAzY3NwYW4gY2xhc3M9XCJtYXJrcmllZmxqcWZpXCIgZGF0YS1tYXJranM9XCJ0cnVlXCIgZGF0YS1vZ2FjPVwiXCIgZGF0YS1vZ2FiPVwiXCIgZGF0YS1vZ3NjPVwiXCIgZGF0YS1vZ3NiPVwiXCJcdTAwM2VMZXR0ZXJcdTAwM2Mvc3Bhblx1MDAzZVx1MDAyNm5ic3A7XHUwMDNjc3BhbiBjbGFzcz1cIm1hcms4OG94N204c3RcIiBkYXRhLW1hcmtqcz1cInRydWVcIiBkYXRhLW9nYWM9XCJcIiBkYXRhLW9nYWI9XCJcIiBkYXRhLW9nc2M9XCJcIiBkYXRhLW9nc2I9XCJcIlx1MDAzZUFncmVlbWVudFx1MDAzYy9zcGFuXHUwMDNlIGRvY3VtZW50IGZvciBvdXIgc3ViamVjdCAoU1dFTjkwMDA5IC0gMjAyMSkgXHUwMDNjc3BhbiBzdHlsZT1cImZvbnQtc2l6ZTogMTRwdDtcIlx1MDAzZVx1MDAzY2EgY2xhc3M9XCJpbnN0cnVjdHVyZV9maWxlX2xpbmsgaW5zdHJ1Y3R1cmVfc2NyaWJkX2ZpbGVcIiB0aXRsZT1cIlN0dWRlbnRERUVELnBkZlwiIGhyZWY9XCIvY291cnNlcy8xMDY1NzAvZmlsZXMvNjYzMDkwMT93cmFwPTFcIiB0YXJnZXQ9XCJfYmxhbmtcIlx1MDAzZWhlcmVcdTAwM2MvYVx1MDAzZS5cdTAwM2Mvc3Bhblx1MDAzZVx1MDAyNm5ic3A7XHUwMDNjYnJcdTAwM2VcdTAwM2Mvc3Bhblx1MDAzZVx1MDAzYy9wXHUwMDNlXG5cdTAwM2NkaXZcdTAwM2VcdTAwM2NzcGFuXHUwMDNlRXZlcnkgc3R1ZGVudCBpcyByZXF1aXJlZCB0byBzaWduIGFuIElQIGFncmVlbWVudCBzaWduaW5nIG92ZXIgdGhlIElQIHRvIHRoZSBVbml2ZXJzaXR5LiBUaGUgYWdyZWVtZW50IGlzIHRoZSBzdGFuZGFyZCBvbmUgZGV2ZWxvcGVkIGluIGNvbmp1bmN0aW9uIHdpdGhcdTAwMjZuYnNwOyB0aGUgVW5pdmVyc2l0eSBsZWdhbCB0ZWFtLiBQbGVhc2UgYmUgaW4gdG91Y2ggd2l0aCB0aGUgU3ViamVjdCBDb29yZGluYXRvciBpZiB5b3UgaGF2ZSBhbnkgcXVlc3Rpb25zLiBJZiB0aGUgY2xpZW50IGlzIGFuIGV4dGVybmFsIGVudGl0eSxcdTAwMjZuYnNwOyB0aGUgVW5pdmVyc2l0eSB0aGVuIHNpZ25zIGFuIGFwcHJvcHJpYXRlIGFncmVlbWVudCBlZmZlY3RpdmVseSBnaXZpbmcgdGhlIElQIHRvIHRoZSBjb21wYW55LCBhcyB0aGV5IGFyZSByZS4uLiAodHJ1bmNhdGVkKSJ9.Ah0XwTJiwoe-Tr1wvCuA71btuR5ikIAIY0BxYer32D0",
+        "lti_context_id": "8a62e5d9-fc50-433b-981a-e670ba618393",
+        "course_id": 106570,
+        "name": "Letter Agreement Submission",
+        "submission_types": [
+            "online_upload"
+        ],
+        "has_submitted_submissions": true,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": false,
+        "is_quiz_assignment": false,
+        "can_duplicate": true,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198632",
+        "allowed_extensions": [
+            "pdf"
+        ],
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198632/submissions?zip=1",
+        "post_manually": false,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 198636,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p><strong>Deliverable 1 will be due on Sunday 21 March, 23.59 Hrs</strong><span>. This is, the end of Week 3.&nbsp;</span><strong>This deliverable will be worth 5/60 points of the project component</strong><span>.</span></p>\n<h1>Sprint 1 submission</h1>\n<p><strong>All artefacts to be assessed will be placed as pages inside a page called <em>Specification</em></strong>, hanging from the root page of your Confluence space. <strong>You are expected to deliver 2 artefacts as part of this submission:</strong></p>\n<h2>&nbsp;</h2>\n<h2>1.&nbsp;&nbsp;&nbsp;&nbsp; Project Overview</h2>\n<p>Describe the project background (motivation), problem and the scope of the solution. Its purpose is to be the initial brief for semester 2 students (SWEN90014). The background should always reflect the latest shared understanding with the client (<strong><em>keep it updated</em></strong>). Keep it clear. Review your English and your texts. This is a VERY important task.</p>\n<p>Stored in a sub-page called <strong>Project</strong> <strong>Overview</strong>, under <strong>Specification. These names/labels can change depending on the task you performed during workshop #1. You are welcome to update and improve the current names of pages on Confluence</strong>.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\">\n<p><strong>Criteria</strong></p>\n</td>\n<td style=\"text-align: center;\">\n<p><strong>Quality attributes</strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Description</p>\n</td>\n<td>\n<p>The students have produced a description of the project that accurately and adequately defines the motivation of the project, the problem and outlines the scope of the solution.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Presentation</p>\n</td>\n<td>\n<p>The background document is clearly laid out and well structured. The document contains no typos or spelling errors.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h2>&nbsp;</h2>\n<h2>2.&nbsp;&nbsp;&nbsp;&nbsp; Requirements Elicitation</h2>\n<p>Explain the requirements elicitation techniques you will use in your project. In case of interviews (for example), how you will prepare for your first interview with your client? List the resources you will use and briefly describe your process/guidelines.</p>\n<p>Again, taking interview as an example: How you will structure your interview? List the questions your team will use as a guideline. Are there any problems to be addressed? Are you assigning different roles and responsibilities for each team member?</p>\n<p>In short, explain your methods and list the artefacts you have designed/created to help you with your requirements elicitation.</p>\n<p>Stored in a page called <strong>Requirements Elicitation</strong>, under <strong>Specification</strong>.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td>\n<p style=\"text-align: center;\"><strong>Criteria</strong></p>\n</td>\n<td>\n<p style=\"text-align: center;\"><strong>Quality attributes</strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Description</p>\n</td>\n<td>\n<p>The students have produced an interview guide that explains their methods and roles/responsibilities.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Presentation</p>\n</td>\n<td>\n<p>The interview guide contains no typos or spelling errors. The document is well organized/structured and lists their questions and strategies to help them understanding the requirements of the system.&nbsp;The interview questions are well-suited/contextualized to their project/client.&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<h2><strong>GitHub</strong></h2>\n<p><strong>Structure your folders as detailed below:</strong></p>\n<p>\u251c\u2500\u2500 docs/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Documentation files (you can create subfolders here to organize your requirements and meeting minutes)</p>\n<p>\u251c\u2500\u2500 tests/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Automated tests</p>\n<p>\u251c\u2500\u2500 prototypes/low fidelity/&nbsp; &nbsp; &nbsp;# low fidelity files (screens, mockups and so on)</p>\n<p>\u251c\u2500\u2500 prototypes/high fidelity/&nbsp; &nbsp; &nbsp;# high fidelity files (screens, source files and so on)</p>\n<p>\u251c\u2500\u2500 ui/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # All the images created for the prototypes (icons, fonts, backgrounds... should be here. This is different from the prototypes' folders.&nbsp; <span style=\"font-family: inherit; font-size: 1rem;\">These are the graphical elements that goes into the prototypes)</span></p>\n<p>\u251c\u2500\u2500 data samples/&nbsp; &nbsp; &nbsp; # Documents you need to generate with all the data (inputs) necessary to simulate/demonstrate your prototype (whatever can be provided as an input in your prototype)&nbsp;</p>\n<p>\u2514\u2500\u2500 README.md</p>\n<p><strong>You don't need to have data in these folders every Sprint. For example, you will only have resources in prototypes/high fidelity/ folder in Sprint 4. Before that, this folder can exist in your GitHub but it'll be empty. This is an incremental process.</strong></p>\n<p>At the end of each sprint, generate a BASELINE TAG from your repository (master branch).</p>\n<p>Format: <strong>SWEN90009_2021_&lt;</strong><strong>TwoDigits</strong><strong>&gt;_&lt;Team&gt;_BL_&lt;sprint&gt; - BL means BASELINE. <span>A&nbsp;</span><em>baseline</em><span>&nbsp;is a reference point in the&nbsp;</span><em>software</em><span>&nbsp;development life cycle marked by the completion and formal approval of a set of predefined work products</span></strong></p>\n<p><strong>Example of TAG in this subject: SWEN90009_2021_CM_Wombat_BL_SPRINT1</strong></p>\n<p>This tag includes ALL the branches that were developed and completed during this Sprint.</p>\n<p>Add a release notes to your README (list the branches that were included in that version).</p>\n<p>&nbsp;</p>\n<p><em>Remember: The teaching team and your supervisor should be able to easily find this information on your Confluence space. You\u2019re also assessed by the way you organise your space so make sure your Confluence Space is clear and organized. Information architecture is key! You are more than welcome to constantly improve your project space.</em></p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": "2021-03-21T12:59:59Z",
+        "unlock_at": null,
+        "lock_at": "2021-03-21T12:59:59Z",
+        "points_possible": 5.0,
+        "grading_type": "points",
+        "assignment_group_id": 214103,
+        "grading_standard_id": null,
+        "created_at": "2021-02-09T23:51:34Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 3,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": 10965,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjE0NWJjNmEyLTU0YTMtNDdiYS05ZGY5LWI5NzMxZjUxMmEyNCIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZVx1MDAzY3N0cm9uZ1x1MDAzZURlbGl2ZXJhYmxlIDEgd2lsbCBiZSBkdWUgb24gU3VuZGF5IDIxIE1hcmNoLCAyMy41OSBIcnNcdTAwM2Mvc3Ryb25nXHUwMDNlXHUwMDNjc3Bhblx1MDAzZS4gVGhpcyBpcywgdGhlIGVuZCBvZiBXZWVrIDMuXHUwMDI2bmJzcDtcdTAwM2Mvc3Bhblx1MDAzZVx1MDAzY3N0cm9uZ1x1MDAzZVRoaXMgZGVsaXZlcmFibGUgd2lsbCBiZSB3b3J0aCA1LzYwIHBvaW50cyBvZiB0aGUgcHJvamVjdCBjb21wb25lbnRcdTAwM2Mvc3Ryb25nXHUwMDNlXHUwMDNjc3Bhblx1MDAzZS5cdTAwM2Mvc3Bhblx1MDAzZVx1MDAzYy9wXHUwMDNlXG5cdTAwM2NoMVx1MDAzZVNwcmludCAxIHN1Ym1pc3Npb25cdTAwM2MvaDFcdTAwM2Vcblx1MDAzY3BcdTAwM2VcdTAwM2NzdHJvbmdcdTAwM2VBbGwgYXJ0ZWZhY3RzIHRvIGJlIGFzc2Vzc2VkIHdpbGwgYmUgcGxhY2VkIGFzIHBhZ2VzIGluc2lkZSBhIHBhZ2UgY2FsbGVkIFx1MDAzY2VtXHUwMDNlU3BlY2lmaWNhdGlvblx1MDAzYy9lbVx1MDAzZVx1MDAzYy9zdHJvbmdcdTAwM2UsIGhhbmdpbmcgZnJvbSB0aGUgcm9vdCBwYWdlIG9mIHlvdXIgQ29uZmx1ZW5jZSBzcGFjZS4gXHUwMDNjc3Ryb25nXHUwMDNlWW91IGFyZSBleHBlY3RlZCB0byBkZWxpdmVyIDIgYXJ0ZWZhY3RzIGFzIHBhcnQgb2YgdGhpcyBzdWJtaXNzaW9uOlx1MDAzYy9zdHJvbmdcdTAwM2VcdTAwM2MvcFx1MDAzZVxuXHUwMDNjaDJcdTAwM2VcdTAwMjZuYnNwO1x1MDAzYy9oMlx1MDAzZVxuXHUwMDNjaDJcdTAwM2UxLlx1MDAyNm5ic3A7XHUwMDI2bmJzcDtcdTAwMjZuYnNwO1x1MDAyNm5ic3A7IFByb2plY3QgT3ZlcnZpZXdcdTAwM2MvaDJcdTAwM2Vcblx1MDAzY3BcdTAwM2VEZXNjcmliZSB0aGUgcHJvamVjdCBiYWNrZ3JvdW5kIChtb3RpdmF0aW9uKSwgcHJvYmxlbSBhbmQgdGhlIHNjb3BlIG9mIHRoZSBzb2x1dGlvbi4gSXRzIHB1cnBvc2UgaXMgdG8gYmUgdGhlIGluaXRpYWwgYnJpZWYgZm9yIHNlbWVzdGVyIDIgc3R1ZGVudHMgKFNXRU45MDAxNCkuIFRoZSBiYWNrZ3JvdW5kIHNob3VsZCBhbHdheXMgcmVmbGVjdCB0aGUgbGF0ZXN0IHNoYXJlZCB1bmRlcnN0YW5kaW5nIHdpdGggdGhlIGNsaWVudCAoXHUwMDNjc3Ryb25nXHUwMDNlXHUwMDNjZW1cdTAwM2VrZWVwIGl0IHVwZGF0ZWRcdTAwM2MvZW1cdTAwM2VcdTAwM2Mvc3Ryb25nXHUwMDNlKS4gS2VlcCBpdCBjbGVhci4gUmV2aWV3IHlvdXIgRW5nbGlzaCBhbmQgeW91ciB0ZXh0cy4gVGhpcyBpcyBhIFZFUlkgaW1wb3J0YW50IHRhc2suXHUwMDNjL3BcdTAwM2Vcblx1MDAzY3BcdTAwM2VTdG9yZWQgaW4gYSBzdWItcGEuLi4gKHRydW5jYXRlZCkifQ.Qdoo11BFYiJ1i9HXs3keEBHlQP5XqWnM5heFZOzVaXo",
+        "lti_context_id": "145bc6a2-54a3-47ba-9df9-b9731f512a24",
+        "course_id": 106570,
+        "name": "Sprint 1: Background, elicitation docs",
+        "submission_types": [
+            "none"
+        ],
+        "has_submitted_submissions": false,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": true,
+        "is_quiz_assignment": false,
+        "can_duplicate": true,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198636",
+        "use_rubric_for_grading": false,
+        "free_form_criterion_comments": false,
+        "rubric": [
+            {
+                "id": "_7218",
+                "points": 1.0,
+                "description": "Description of criterion",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "blank",
+                        "points": 1.0,
+                        "description": "Excellent",
+                        "long_description": "The students have produced an excellent description of the project that accurately and adequately defines the problem and outlines the scope of the solution. Arguments are logical.\n\nThe background document is clearly laid out and well structured. The document contains no typos or spelling errors. With minimal grammatical or spelling mistakes.\n[students did an excellent work and there's not much they need to do to improve the background description of the project]"
+                    },
+                    {
+                        "id": "_9470",
+                        "points": 0.75,
+                        "description": "Good",
+                        "long_description": "The students have produced a description of the project that lacks of accuracy. It's also not completely defining the problem and/or the scope of the solution.\nThe background document is poorly structured. The document contains some typos or spelling errors.[there are clear opportunities to improve the background description of the project]"
+                    },
+                    {
+                        "id": "_6095",
+                        "points": 0.5,
+                        "description": "Inadequate",
+                        "long_description": "The students have produced a description of the project that lacks of logical presentation, its not reflecting the problem or the solution of the project. The background is poorly presented and structured. It lacks of logical presentation, its not highlighting the problem or the solution of the project and it has lots of grammatical and spelling mistakes. [students have a significant amount of work to do to improve the background description of the project]."
+                    },
+                    {
+                        "id": "blank_2",
+                        "points": 0.0,
+                        "description": "No marks",
+                        "long_description": "No background"
+                    }
+                ]
+            },
+            {
+                "id": "_5680",
+                "points": 3.0,
+                "description": "Elicitation Documents",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "_9301",
+                        "points": 3.0,
+                        "description": "Excellent",
+                        "long_description": "The students have produced an excellent description of their elicitation documents. They also explain why they've decided to adopt those methods. For example, if students decide to 'interview' users, they must document why they've decided to use that technique and explain their interview methods and roles/responsibilities. The explained technique contains no typos or spelling errors. The document is well organized/structured and also lists their questions and strategies to help them understanding the requirements of the system. [students did an excellent work and there's not much they need to do to improve their elicitation document/technique]"
+                    },
+                    {
+                        "id": "_9279",
+                        "points": 2.0,
+                        "description": "Good",
+                        "long_description": "Elicitation document is not well detailed/explained. Students don't explain well why they've decided for those methods nor provide details on how they'll use it. Not many details about roles/responsibilities. Also, the guide contains some typos or spelling errors. The document has some structure but lack of details. The guide could be better contextualized to their project/client. [there are clear opportunities to improve their elicitation document/technique]"
+                    },
+                    {
+                        "id": "_8551",
+                        "points": 1.0,
+                        "description": "Inadequate",
+                        "long_description": "Document lacks of clarity, structure, details and organization.\n[students have a significant amount of work to do to improve their elicitation document/technique]."
+                    },
+                    {
+                        "id": "_9915",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "51720_2866",
+                "points": 1.0,
+                "description": "GitHub",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "51720_6986",
+                        "points": 1.0,
+                        "description": "Full Marks",
+                        "long_description": "Folders are structured;\nDocuments were added to the repository (and are updated);\nA baseline tag was generated for this delivery."
+                    },
+                    {
+                        "id": "51720_7616",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            }
+        ],
+        "rubric_settings": {
+            "id": 51720,
+            "title": "SPRINT 1",
+            "points_possible": 5.0,
+            "free_form_criterion_comments": false,
+            "hide_score_total": false,
+            "hide_points": true
+        },
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198636/submissions?zip=1",
+        "post_manually": false,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 198637,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p><span>Deliverable 2 will be due on Sunday 4 April, at 23.59 Hrs. This is, the end of Week 5. This deliverable will be worth 10/60 marks of the project component.</span></p>\n<h2>do/be/feel</h2>\n<p>Create a do/be/feel list for the project as described in the lecture. It will cover both the artefact itself and the process followed to create it. You may want to document the process as well (considering the lectures from Professor Leon about the Motivational Modelling tool)</p>\n<p>do/be/feel:</p>\n<table style=\"height: 484px; width: 801px;\" border=\"1\" width=\"990\">\n<tbody>\n<tr style=\"height: 115px;\">\n<td style=\"width: 108.5px; text-align: center; height: 115px;\"><strong>Granularity</strong></td>\n<td style=\"width: 691.5px; height: 115px;\">The list has an adequate level of granularity that helps understand and explain the context of the project.</td>\n</tr>\n<tr style=\"height: 139px;\">\n<td style=\"width: 108.5px; text-align: center; height: 139px;\"><strong>Complete</strong></td>\n<td style=\"width: 691.5px; height: 139px;\">The do/be/feel list completely covers the information elicited during the session and other interactions with the client. <strong>DO-BE-FEEL list and DO-BE-FEEL hierarchy are well presented</strong>.</td>\n</tr>\n<tr style=\"height: 115px;\">\n<td style=\"width: 108.5px; text-align: center; height: 115px;\"><strong>Consistency</strong></td>\n<td style=\"width: 691.5px; height: 115px;\">The do/be/feel is consistent with the client understanding of the problem and with other artefacts.&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<h2>&nbsp;</h2>\n<h2>Goal model</h2>\n<p>Create a goal model for the project as described in the lecture. <strong>Your goal model MUST be consistent to your do/be/feel list</strong>. Note that the validation with the client can happen after this submission, possibly during the co-design session with the client in Week 6.</p>\n<p>Goal model:</p>\n<table style=\"height: 485px; width: 803px;\" border=\"1\" width=\"990\">\n<tbody>\n<tr>\n<td style=\"width: 109px; text-align: center;\"><strong>Granularity</strong></td>\n<td style=\"width: 692px;\">The goal model has an adequate level of granularity that helps understand and explain the context of the project and its motivation. It shows well the goals of the system to be develop to a level of detail similar to user stories. The level of granularity allows for a correct association of quality and emotional goals to particular functional goals.</td>\n</tr>\n<tr>\n<td style=\"width: 109px; text-align: center;\"><strong>Hierarchy structure</strong></td>\n<td style=\"width: 692px;\">The hierarchy of functional goals makes perfectly sense for somebody not familiar with the problem domain and it can be followed to explain and motivate the problem to an external party.</td>\n</tr>\n<tr>\n<td style=\"width: 109px; text-align: center;\"><strong>Use of elements</strong></td>\n<td style=\"width: 692px;\">The notation has been followed and the elements have been used correctly.</td>\n</tr>\n<tr>\n<td style=\"width: 109px; text-align: center;\"><strong>Complete</strong></td>\n<td style=\"width: 692px;\">The goal model completely covers the information elicited during the session and other interactions with the client. DO-BE-FEEL list and DO-BE-FEEL hierarchy are presented together with the model.</td>\n</tr>\n<tr>\n<td style=\"width: 109px; text-align: center;\"><strong>Consistency</strong></td>\n<td style=\"width: 692px;\">The goal model is consistent with the client understanding of the problem and with <strong>DO-BE-FEEL list and DO-BE-FEEL hierarchy</strong>.&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 109px; text-align: center;\"><strong>Presentation</strong></td>\n<td style=\"width: 692px;\">The goal model has an elegant and neat layout, including clarity (labels and spelling).&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<h2>&nbsp;</h2>\n<h2>Personas</h2>\n<p>Create a set of personas for your project as described in the lecture. There is no predetermined number of personas required. It will vary between projects, in case of doubt discuss with your supervisor. There is no enforced format for the personas, you may choose your own design as long as covers all important aspects. Usage of personas will be observed by your supervisor through the rest of the subject.</p>\n<p>Personas:</p>\n<table style=\"height: 503px; width: 796px;\" border=\"1\" width=\"980\">\n<tbody>\n<tr style=\"height: 54px;\">\n<td style=\"width: 194px; text-align: center; height: 54px;\"><strong>Realistic</strong></td>\n<td style=\"width: 601px; height: 54px;\">The personas are based on the research done by students and the discussion with the clients.</td>\n</tr>\n<tr style=\"height: 99px;\">\n<td style=\"width: 194px; text-align: center; height: 99px;\"><strong>Range</strong></td>\n<td style=\"width: 601px; height: 99px;\">\n<p>The personas represent a sufficiently wide range of behaviours of target users for the system. There is evidence that a variety of types of personas have been considered.</p>\n<p><strong>Map <i>interview subjects (users) </i>to <i>behavioral variables (constructing personas - step 2)</i></strong></p>\n</td>\n</tr>\n<tr style=\"height: 54px;\">\n<td style=\"width: 194px; text-align: center; height: 54px;\"><strong>Distinct</strong></td>\n<td style=\"width: 601px; height: 54px;\">The personas present distinct behaviours and do not overlap (unless justified by the students).</td>\n</tr>\n<tr style=\"height: 99px;\">\n<td style=\"width: 194px; text-align: center; height: 99px;\"><strong>Usefulness</strong></td>\n<td style=\"width: 601px; height: 99px;\">The personas present a rich description of the users and give a good understanding of the person's motivation and behaviour.</td>\n</tr>\n<tr style=\"height: 165px;\">\n<td style=\"width: 194px; text-align: center; height: 101px;\"><strong>Presentation</strong></td>\n<td style=\"width: 601px; height: 101px;\">The presentation of the personas is elegant and attractive, they are well written, clear, without ambiguities or typos.</td>\n</tr>\n<tr style=\"height: 96px;\">\n<td style=\"width: 194px; text-align: center; height: 96px;\"><strong>Process</strong></td>\n<td style=\"width: 601px; height: 96px;\">There is evidence that the process to create personas has been followed and it has been well documented.</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt; background-color: #f1c40f;\"><strong>IMPORTANT:</strong></span> Make sure your personas are consistent with your do/be/feel list and goal model! The link between the proposed model and personas should be very clear (adopt the same keywords). <strong>Consistency is KEY.&nbsp;</strong></p>\n<p><strong>All the stakeholders should be in your list/map (and only them).</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h2><strong>GitHub</strong></h2>\n<p><strong>Structure your folders as detailed below:</strong></p>\n<p>\u251c\u2500\u2500 docs/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Documentation files (you can create subfolders here to organize your requirements and meeting minutes)</p>\n<p>\u251c\u2500\u2500 tests/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Automated tests</p>\n<p>\u251c\u2500\u2500 prototypes/low fidelity/&nbsp; &nbsp; &nbsp;# low fidelity files (screens, mockups and so on)</p>\n<p>\u251c\u2500\u2500 prototypes/high fidelity/&nbsp; &nbsp; &nbsp;# high fidelity files (screens, source files and so on)</p>\n<p>\u251c\u2500\u2500 ui/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # All the images created for the prototypes (icons, fonts, backgrounds... should be here. This is different from the prototypes' folders.&nbsp; <span style=\"font-family: inherit; font-size: 1rem;\">These are the graphical elements that goes into the prototypes)</span></p>\n<p>\u251c\u2500\u2500 data samples/&nbsp; &nbsp; &nbsp; # Documents you need to generate with all the data (inputs) necessary to simulate/demonstrate your prototype (whatever can be provided as an input in your prototype)&nbsp;</p>\n<p>\u2514\u2500\u2500 README.md</p>\n<p><strong>You don't need to have data in these folders every Sprint. For example, you will only have resources in prototypes/high fidelity/ folder in Sprint 4. Before that, this folder can exist in your GitHub but it'll be empty. This is an incremental process.</strong></p>\n<p>At the end of each sprint, generate a BASELINE TAG from your repository (master branch).</p>\n<p>Format: <strong>SWEN90009_2021_&lt;</strong><strong>TwoDigits</strong><strong>&gt;_&lt;Team&gt;_BL_&lt;sprint&gt; - BL means BASELINE. <span>A&nbsp;</span><em>baseline</em><span>&nbsp;is a reference point in the&nbsp;</span><em>software</em><span>&nbsp;development life cycle marked by the completion and formal approval of a set of predefined work products</span></strong></p>\n<p><strong>Example of TAG in this subject: SWEN90009_2021_CM_Wombat_BL_SPRINT2</strong></p>\n<p>This tag includes ALL the branches that were developed and completed during this Sprint.</p>\n<p>Add a release notes to your README (list the branches that were included in that version).</p>\n<p>&nbsp;</p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": "2021-04-04T13:59:59Z",
+        "unlock_at": null,
+        "lock_at": "2021-04-04T13:59:59Z",
+        "points_possible": 10.0,
+        "grading_type": "points",
+        "assignment_group_id": 214103,
+        "grading_standard_id": null,
+        "created_at": "2021-02-09T23:51:48Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 4,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": 10965,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6ImEyODNlNGQ3LWUwYmUtNDc3Yi05NDMzLTY1NTk3ZTdmODlhYiIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZVx1MDAzY3NwYW5cdTAwM2VEZWxpdmVyYWJsZSAyIHdpbGwgYmUgZHVlIG9uIFN1bmRheSA0IEFwcmlsLCBhdCAyMy41OSBIcnMuIFRoaXMgaXMsIHRoZSBlbmQgb2YgV2VlayA1LiBUaGlzIGRlbGl2ZXJhYmxlIHdpbGwgYmUgd29ydGggMTAvNjAgbWFya3Mgb2YgdGhlIHByb2plY3QgY29tcG9uZW50Llx1MDAzYy9zcGFuXHUwMDNlXHUwMDNjL3BcdTAwM2Vcblx1MDAzY2gyXHUwMDNlZG8vYmUvZmVlbFx1MDAzYy9oMlx1MDAzZVxuXHUwMDNjcFx1MDAzZUNyZWF0ZSBhIGRvL2JlL2ZlZWwgbGlzdCBmb3IgdGhlIHByb2plY3QgYXMgZGVzY3JpYmVkIGluIHRoZSBsZWN0dXJlLiBJdCB3aWxsIGNvdmVyIGJvdGggdGhlIGFydGVmYWN0IGl0c2VsZiBhbmQgdGhlIHByb2Nlc3MgZm9sbG93ZWQgdG8gY3JlYXRlIGl0LiBZb3UgbWF5IHdhbnQgdG8gZG9jdW1lbnQgdGhlIHByb2Nlc3MgYXMgd2VsbCAoY29uc2lkZXJpbmcgdGhlIGxlY3R1cmVzIGZyb20gUHJvZmVzc29yIExlb24gYWJvdXQgdGhlIE1vdGl2YXRpb25hbCBNb2RlbGxpbmcgdG9vbClcdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZWRvL2JlL2ZlZWw6XHUwMDNjL3BcdTAwM2Vcblx1MDAzY3RhYmxlIHN0eWxlPVwiaGVpZ2h0OiA0ODRweDsgd2lkdGg6IDgwMXB4O1wiIGJvcmRlcj1cIjFcIiB3aWR0aD1cIjk5MFwiXHUwMDNlXG5cdTAwM2N0Ym9keVx1MDAzZVxuXHUwMDNjdHIgc3R5bGU9XCJoZWlnaHQ6IDExNXB4O1wiXHUwMDNlXG5cdTAwM2N0ZCBzdHlsZT1cIndpZHRoOiAxMDguNXB4OyB0ZXh0LWFsaWduOiBjZW50ZXI7IGhlaWdodDogMTE1cHg7XCJcdTAwM2VcdTAwM2NzdHJvbmdcdTAwM2VHcmFudWxhcml0eVx1MDAzYy9zdHJvbmdcdTAwM2VcdTAwM2MvdGRcdTAwM2Vcblx1MDAzY3RkIHN0eWxlPVwid2lkdGg6IDY5MS41cHg7IGhlaWdodDogMTE1cHg7XCJcdTAwM2VUaGUgbGlzdCBoYXMgYW4gYWRlcXVhdGUgbGV2ZWwgb2YgZ3JhbnVsYXJpdHkgdGhhdCBoZWxwcyB1bmRlcnN0YW5kIGFuZCBleHBsYWluIHRoZSBjb250ZXh0IG9mIHRoZSBwcm9qZWN0Llx1MDAzYy90ZFx1MDAzZVxuXHUwMDNjL3RyXHUwMDNlXG5cdTAwM2N0ciBzdHlsZT1cImhlaWdodDogMTM5cHg7XCJcdTAwM2Vcblx1MDAzY3RkIHN0eWxlPVwid2lkdGg6IDEwOC41cHg7IHRleHQtYWxpZ246IGNlbnRlcjsgaGVpZ2h0OiAxMzlweDtcIlx1MDAzZVx1MDAzY3N0cm9uZ1x1MDAzZUNvbXBsZXRlXHUwMDNjL3N0cm9uZ1x1MDAzZVx1MDAzYy90ZFx1MDAzZVxuLi4uICh0cnVuY2F0ZWQpIn0.WZneBJP8uAm-dPRJW7b6mRqr3zg_GAx85ll4nJ3z68g",
+        "lti_context_id": "a283e4d7-e0be-477b-9433-65597e7f89ab",
+        "course_id": 106570,
+        "name": "Sprint 2: Do/be/feel, goal model and personas",
+        "submission_types": [
+            "none"
+        ],
+        "has_submitted_submissions": false,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": true,
+        "is_quiz_assignment": false,
+        "can_duplicate": true,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198637",
+        "use_rubric_for_grading": false,
+        "free_form_criterion_comments": false,
+        "rubric": [
+            {
+                "id": "_9788",
+                "points": 2.5,
+                "description": "do/be/feel list",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "blank",
+                        "points": 2.5,
+                        "description": "Excellent",
+                        "long_description": "Granularity: The list has an adequate level of granularity that helps understand and explain the context of the project.\nComplete: The do/be/feel list completely covers the information elicited during the session and other interactions with the client. DO-BE-FEEL list and DO-BE-FEEL hierarchy are well presented.\nConsistency: The do/be/feel is consistent with the client understanding of the problem and with other artefacts.\n\n[the list is excellent and students do not need to polish much]"
+                    },
+                    {
+                        "id": "_2710",
+                        "points": 1.5,
+                        "description": "Good",
+                        "long_description": "Good list with few opportunities for improvement.\n[students need to rework the list a bit to improve it based on this rubric criteria]"
+                    },
+                    {
+                        "id": "_4152",
+                        "points": 0.5,
+                        "description": "Inadequate",
+                        "long_description": "[students need to rework the list significantly to improve it based on this rubric criteria]"
+                    },
+                    {
+                        "id": "blank_2",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "_5058",
+                "points": 4.0,
+                "description": "goal model",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "_4351",
+                        "points": 4.0,
+                        "description": "Excellent",
+                        "long_description": "Granularity:\tThe goal model has an adequate level of granularity that helps understand and explain the context of the project and its motivation. It shows well the goals of the system to be develop to a level of detail similar to user stories. The level of granularity allows for a correct association of quality and emotional goals to particular functional goals.\nHierarchy: structure\tThe hierarchy of functional goals makes perfectly sense for somebody not familiar with the problem domain and it can be followed to explain and motivate the problem to an external party.\nUse of elements\tThe notation has been followed and the elements have been used correctly.\nComplete:\tThe goal model completely covers the information elicited during the session and other interactions with the client. DO-BE-FEEL list and DO-BE-FEEL hierarchy are presented together with the model.\nConsistency:\tThe goal model is consistent with the client understanding of the problem and with DO-BE-FEEL list and DO-BE-FEEL hierarchy. \nPresentation:\tThe goal model has an elegant and neat layout, including clarity (labels and spelling).  [minimum rework necessary to make it better]"
+                    },
+                    {
+                        "id": "_9870",
+                        "points": 3.0,
+                        "description": "Good",
+                        "long_description": "[students need to rework the goal model a bit to improve it based on this rubric criteria]"
+                    },
+                    {
+                        "id": "_175",
+                        "points": 1.5,
+                        "description": "Inadequate",
+                        "long_description": "[students need to rework the goal model significantly to improve it based on this rubric criteria]"
+                    },
+                    {
+                        "id": "_9396",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "_993",
+                "points": 2.5,
+                "description": "personas",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "_8528",
+                        "points": 2.5,
+                        "description": "Excellent",
+                        "long_description": "Realistic:The personas are based on the research done by students and the discussion with the clients.\nRange:The personas represent a sufficiently wide range of behaviours of target users for the system. There is evidence that a variety of types of personas have been considered.\nMap interview subjects (users) to behavioral variables (constructing personas - step 2)\n\nDistinct:The personas present distinct behaviours and do not overlap (unless justified by the students).\nUsefulness:The personas present a rich description of the users and give a good understanding of the person's motivation and behaviour.\nPresentation:The presentation of the personas is elegant and attractive, they are well written, clear, without ambiguities or typos.\nProcess: There is evidence that the process to create personas has been followed and it has been well documented. [minimum rework necessary to make it better]"
+                    },
+                    {
+                        "id": "_4155",
+                        "points": 1.5,
+                        "description": "Good",
+                        "long_description": "[students need to rework the personas a bit to improve it based on this rubric criteria]"
+                    },
+                    {
+                        "id": "_1569",
+                        "points": 0.5,
+                        "description": "Inadequate",
+                        "long_description": "[students need to rework the personas significantly to improve it based on this rubric criteria]"
+                    },
+                    {
+                        "id": "_3226",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "51732_7548",
+                "points": 1.0,
+                "description": "GitHub",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "51732_6180",
+                        "points": 1.0,
+                        "description": "Full Marks",
+                        "long_description": "Folders are structured;\nDocuments were added to the repository (and are updated);\nA baseline tag was generated for this delivery."
+                    },
+                    {
+                        "id": "51732_3595",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            }
+        ],
+        "rubric_settings": {
+            "id": 51732,
+            "title": "SPRINT 2",
+            "points_possible": 10.0,
+            "free_form_criterion_comments": false,
+            "hide_score_total": false,
+            "hide_points": true
+        },
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198637/submissions?zip=1",
+        "post_manually": true,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 198638,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p><span>Deliverable 3 will be due on Sunday 25 Apr, 23.59 Hrs. This is, the end of Week 7. This deliverable will be worth 20/60 marks of the project component.</span></p>\n<h2>User Stories</h2>\n<p>The number of user stories to be written will be dependent on the project. There must be one for each significant feature of the system-to-be. The user stories should include their motivation \u201cso that\u2026\u201d if relevant. They also should be prioritised together with the client (MoSCoW).</p>\n<p>Important criteria to be consider as part of your deliverable:</p>\n<table style=\"height: 627px; width: 793px;\" border=\"1\" width=\"937\">\n<tbody>\n<tr style=\"height: 78px;\">\n<td style=\"width: 106px; text-align: center; height: 78px;\"><strong>Complete</strong></td>\n<td style=\"width: 686px; height: 78px;\">The user stories completely cover the capabilities required by the client.&nbsp;</td>\n</tr>\n<tr style=\"height: 78px;\">\n<td style=\"width: 106px; text-align: center; height: 78px;\"><strong>Consistency</strong></td>\n<td style=\"width: 686px; height: 78px;\">The user stories are consistent with the client understanding of the problem and with other artefacts.&nbsp;</td>\n</tr>\n<tr style=\"height: 78px;\">\n<td style=\"width: 106px; text-align: center; height: 78px;\"><strong>Justification</strong></td>\n<td style=\"width: 686px; height: 78px;\">The user stories include justification (\"so that\") IF appropriate.</td>\n</tr>\n<tr>\n<td style=\"width: 106px; text-align: center;\"><strong>User Journey Map</strong></td>\n<td style=\"width: 686px;\">At least 2 scenarios covered through user journey maps</td>\n</tr>\n<tr style=\"height: 142px;\">\n<td style=\"width: 106px; text-align: center; height: 142px;\"><strong>User Story Map</strong></td>\n<td style=\"width: 686px; height: 142px;\">A user story map have <strong>also </strong>been provided on Confluence (SWEN90014 students should be able to understand and edit that easily next semester).</td>\n</tr>\n<tr style=\"height: 142px;\">\n<td style=\"width: 106px; text-align: center; height: 142px;\"><strong>Priorities</strong></td>\n<td style=\"width: 686px; height: 142px;\">User stories are well prioritized. The priorities can be traced back to the client and <strong>the choice of prioritization mechanism has been justified by the students</strong>.</td>\n</tr>\n<tr style=\"height: 109px;\">\n<td style=\"width: 106px; text-align: center; height: 109px;\"><strong>Presentation</strong></td>\n<td style=\"width: 686px; height: 109px;\">The user stories document is clearly laid out. The user stories are well-written and they are unambiguous. They contain no typos or spelling errors.&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<h2>&nbsp;</h2>\n<h2>Paper Prototype and Construction Process</h2>\n<p><strong>Here you will be assessed by a few criteria, namely Complete, Consistency, Realistic, Presentation and Task scenarios, that will be evaluated based on the artefacts you upload to your Confluence Space and a 10-min video of your usability test</strong>. The Process criteria will be assessed by your supervisor based on your interaction with the client to produce the paper prototype. Note that the feedback component will not be assessed at this stage, but at the end of the semester. If you receive feedback from your client after you send the video to them for reviewing (i.e. during Week 7), you are <strong>NOT</strong> expected to produce another video incorporating this feedback. The feedback will be written down and stored in the submission page. Then, it will be incorporated into the digital prototype.</p>\n<p>The paper prototype video (as a playable file in a common format) should be of <strong>around 7-10 minutes</strong>. Videos that deviate a lot from this duration (either shorter or longer) will be penalized. <strong>Think about testing at least 4 main scenarios/tasks during this time (consistent to your goal model and user stories).</strong> Note that Confluence has a size file limit of 200MB. Pick a video resolution and a compression format that produce a reasonably sized file.</p>\n<p>Important criteria to be consider as part of your deliverable:</p>\n<table style=\"height: 706px; width: 797px;\" border=\"1\" width=\"927\">\n<tbody>\n<tr style=\"height: 90px;\">\n<td style=\"width: 124px; height: 90px; text-align: center;\"><strong>Complete</strong></td>\n<td style=\"width: 672px; height: 90px;\">The paper prototype video completely illustrates the capabilities of at least four user story/task scenarios, aligned with client expectations.&nbsp;</td>\n</tr>\n<tr style=\"height: 87px;\">\n<td style=\"width: 124px; height: 87px; text-align: center;\"><strong>Consistency</strong></td>\n<td style=\"width: 672px; height: 87px;\">The paper prototype video is consistent with the client's expected behaviour of the problem and with other artefacts.&nbsp;</td>\n</tr>\n<tr style=\"height: 80px;\">\n<td style=\"width: 124px; height: 80px; text-align: center;\"><strong>Realistic</strong></td>\n<td style=\"width: 672px; height: 80px;\">The paper prototype video will show realistic data as inputs and outputs in its screens.</td>\n</tr>\n<tr style=\"height: 126px;\">\n<td style=\"width: 124px; height: 126px; text-align: center;\"><strong>Presentation</strong></td>\n<td style=\"width: 672px; height: 126px;\">The video prototype will be well produced to clearly demonstrate the capabilities and interactions to the client with the task scenarios. The screens will contain no typos or spelling errors. The video file will be available in Confluence (not only as a link).</td>\n</tr>\n<tr style=\"height: 104px;\">\n<td style=\"width: 124px; height: 104px; text-align: center;\"><strong>Task scenario</strong></td>\n<td style=\"width: 672px; height: 104px;\">The tasks are clear, well written, organized and consistent to user stories. They help the students validating the usability and the goals of the system. They are available on Confluence.</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><strong>Create task scenarios and, share and validate them with the client. Don\u2019t explain the prototype to the client. Let the client test/validate your designs.</strong></p>\n<p><strong>The client will be the very first user of your prototype. Let them explore and navigate through your prototypes without your help. We will assess this in your videos.</strong></p>\n<p>&nbsp;</p>\n<p><span style=\"background-color: #f1c40f;\"><strong><span style=\"font-size: 14pt; background-color: #f1c40f;\">IMPORTANT:</span></strong></span>&nbsp; Make sure your deliverables are consistent and that you are building on top of the previous ones. Ask yourself:</p>\n<ul>\n<li>Are the user stories strongly linked to the goal model and personas?</li>\n<li>Are the paper prototypes simulating scenarios that are linked to user stories/goal model/personas?</li>\n</ul>\n<h2><strong>GitHub</strong></h2>\n<p><strong>Structure your folders as detailed below:</strong></p>\n<p>\u251c\u2500\u2500 docs/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Documentation files (you can create subfolders here to organize your requirements and meeting minutes)</p>\n<p>\u251c\u2500\u2500 tests/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Automated tests</p>\n<p>\u251c\u2500\u2500 prototypes/low fidelity/&nbsp; &nbsp; &nbsp;# low fidelity files (screens, mockups and so on)</p>\n<p>\u251c\u2500\u2500 prototypes/high fidelity/&nbsp; &nbsp; &nbsp;# high fidelity files (screens, source files and so on)</p>\n<p>\u251c\u2500\u2500 ui/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # All the images created for the prototypes (icons, fonts, backgrounds... should be here. This is different from the prototypes' folders.&nbsp; <span style=\"font-family: inherit; font-size: 1rem;\">These are the graphical elements that goes into the prototypes)</span></p>\n<p>\u251c\u2500\u2500 data samples/&nbsp; &nbsp; &nbsp; # Documents you need to generate with all the data (inputs) necessary to simulate/demonstrate your prototype (whatever can be provided as an input in your prototype)&nbsp;</p>\n<p>\u2514\u2500\u2500 README.md</p>\n<p><strong>You don't need to have data in these folders every Sprint. For example, you will only have resources in prototypes/high fidelity/ folder in Sprint 4. Before that, this folder can exist in your GitHub but it'll be empty. This is an incremental process.</strong></p>\n<p>At the end of each sprint, generate a BASELINE TAG from your repository (master branch).</p>\n<p>Format: <strong>SWEN90009_2021_&lt;</strong><strong>TwoDigits</strong><strong>&gt;_&lt;Team&gt;_BL_&lt;sprint&gt; - BL means BASELINE. <span>A&nbsp;</span><em>baseline</em><span>&nbsp;is a reference point in the&nbsp;</span><em>software</em><span>&nbsp;development life cycle marked by the completion and formal approval of a set of predefined work products</span></strong></p>\n<p><strong>Example of TAG in this subject: SWEN90009_2021_CM_Wombat_BL_SPRINT3</strong></p>\n<p>This tag includes ALL the branches that were developed and completed during this Sprint.</p>\n<p>Add a release notes to your README (list the branches that were included in that version).</p>\n<p>&nbsp;</p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": "2021-04-25T13:59:59Z",
+        "unlock_at": "2021-04-18T14:00:00Z",
+        "lock_at": "2021-04-25T13:59:59Z",
+        "points_possible": 20.0,
+        "grading_type": "points",
+        "assignment_group_id": 214103,
+        "grading_standard_id": null,
+        "created_at": "2021-02-09T23:52:10Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 5,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": 10965,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjE3NWYxZTU1LWY5ZGQtNGE2Yi1iOTdjLTRkOTFjZTU5YjI0ZiIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZVx1MDAzY3NwYW5cdTAwM2VEZWxpdmVyYWJsZSAzIHdpbGwgYmUgZHVlIG9uIFN1bmRheSAyNSBBcHIsIDIzLjU5IEhycy4gVGhpcyBpcywgdGhlIGVuZCBvZiBXZWVrIDcuIFRoaXMgZGVsaXZlcmFibGUgd2lsbCBiZSB3b3J0aCAyMC82MCBtYXJrcyBvZiB0aGUgcHJvamVjdCBjb21wb25lbnQuXHUwMDNjL3NwYW5cdTAwM2VcdTAwM2MvcFx1MDAzZVxuXHUwMDNjaDJcdTAwM2VVc2VyIFN0b3JpZXNcdTAwM2MvaDJcdTAwM2Vcblx1MDAzY3BcdTAwM2VUaGUgbnVtYmVyIG9mIHVzZXIgc3RvcmllcyB0byBiZSB3cml0dGVuIHdpbGwgYmUgZGVwZW5kZW50IG9uIHRoZSBwcm9qZWN0LiBUaGVyZSBtdXN0IGJlIG9uZSBmb3IgZWFjaCBzaWduaWZpY2FudCBmZWF0dXJlIG9mIHRoZSBzeXN0ZW0tdG8tYmUuIFRoZSB1c2VyIHN0b3JpZXMgc2hvdWxkIGluY2x1ZGUgdGhlaXIgbW90aXZhdGlvbiDigJxzbyB0aGF04oCm4oCdIGlmIHJlbGV2YW50LiBUaGV5IGFsc28gc2hvdWxkIGJlIHByaW9yaXRpc2VkIHRvZ2V0aGVyIHdpdGggdGhlIGNsaWVudCAoTW9TQ29XKS5cdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZUltcG9ydGFudCBjcml0ZXJpYSB0byBiZSBjb25zaWRlciBhcyBwYXJ0IG9mIHlvdXIgZGVsaXZlcmFibGU6XHUwMDNjL3BcdTAwM2Vcblx1MDAzY3RhYmxlIHN0eWxlPVwiaGVpZ2h0OiA2MjdweDsgd2lkdGg6IDc5M3B4O1wiIGJvcmRlcj1cIjFcIiB3aWR0aD1cIjkzN1wiXHUwMDNlXG5cdTAwM2N0Ym9keVx1MDAzZVxuXHUwMDNjdHIgc3R5bGU9XCJoZWlnaHQ6IDc4cHg7XCJcdTAwM2Vcblx1MDAzY3RkIHN0eWxlPVwid2lkdGg6IDEwNnB4OyB0ZXh0LWFsaWduOiBjZW50ZXI7IGhlaWdodDogNzhweDtcIlx1MDAzZVx1MDAzY3N0cm9uZ1x1MDAzZUNvbXBsZXRlXHUwMDNjL3N0cm9uZ1x1MDAzZVx1MDAzYy90ZFx1MDAzZVxuXHUwMDNjdGQgc3R5bGU9XCJ3aWR0aDogNjg2cHg7IGhlaWdodDogNzhweDtcIlx1MDAzZVRoZSB1c2VyIHN0b3JpZXMgY29tcGxldGVseSBjb3ZlciB0aGUgY2FwYWJpbGl0aWVzIHJlcXVpcmVkIGJ5IHRoZSBjbGllbnQuXHUwMDI2bmJzcDtcdTAwM2MvdGRcdTAwM2Vcblx1MDAzYy90clx1MDAzZVxuXHUwMDNjdHIgc3R5bGU9XCJoZWlnaHQ6IDc4cHg7XCJcdTAwM2Vcblx1MDAzY3RkIHN0eWxlPVwid2lkdGg6IDEwNnB4OyB0ZXh0LWFsaWduOiBjZW50ZXI7IGhlaWdodDogNzhweDtcIlx1MDAzZVx1MDAzY3N0cm9uZ1x1MDAzZUNvbnNpc3RlbmMuLi4gKHRydW5jYXRlZCkifQ.FZEDr507vth_Bl3dZnKRtuBzVoP2wxUJ8tfoPbATGGE",
+        "lti_context_id": "175f1e55-f9dd-4a6b-b97c-4d91ce59b24f",
+        "course_id": 106570,
+        "name": "Sprint 3: User stories, paper prototype (video)",
+        "submission_types": [
+            "none"
+        ],
+        "has_submitted_submissions": false,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": true,
+        "is_quiz_assignment": false,
+        "can_duplicate": true,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198638",
+        "use_rubric_for_grading": false,
+        "free_form_criterion_comments": false,
+        "rubric": [
+            {
+                "id": "_9611",
+                "points": 11.0,
+                "description": "User Stories",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "blank",
+                        "points": 11.0,
+                        "description": "Excellent",
+                        "long_description": "Complete:The user stories completely cover the capabilities required by the client. \nConsistency:The user stories are consistent with the client understanding of the problem and with other artefacts. \nJustification:The user stories include justification (\"so that\") IF appropriate.\nMap\tA user story map have also been provided on Confluence (SWEN90014 students should be able to understand and edit that easily next semester).\nPriorities:User stories are well prioritized. The priorities can be traced back to the client and the choice of prioritization mechanism has been justified by the students.\nPresentation: The user stories document is clearly laid out. The user stories are well-written and they are unambiguous. They contain no typos or spelling errors. [excellent deliverable. completely aligned to criteria for this sprint. students do not need much work to make the deliverable even better. MINOR adjustments can be performed]"
+                    },
+                    {
+                        "id": "_9202",
+                        "points": 8.0,
+                        "description": "Good",
+                        "long_description": "[good deliverable. mostly aligned with designed criteria for this sprint. students do need to do a bit of work to make the deliverable better. Moderate adjustments can be performed]"
+                    },
+                    {
+                        "id": "_5299",
+                        "points": 4.0,
+                        "description": "Inadequate",
+                        "long_description": "[ students need to do a significant amount of work to make the deliverable better. MAJOR adjustments must be performed]"
+                    },
+                    {
+                        "id": "blank_2",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "_2536",
+                "points": 6.0,
+                "description": "Paper Prototype",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "_7091",
+                        "points": 6.0,
+                        "description": "Excellent",
+                        "long_description": "Complete:The paper prototype video completely illustrates the capabilities of at least four user story/task scenarios, aligned with client expectations. \nConsistency:The paper prototype video is consistent with the client's expected behaviour of the problem and with other artefacts. \nRealistic:The paper prototype video will show realistic data as inputs and outputs in its screens.\nPresentation:The video prototype will be well produced to clearly demonstrate the capabilities and interactions to the client with the task scenarios. The screens will contain no typos or spelling errors. The video file will be available in Confluence (not only as a link).\nTask scenario:The tasks are clear, well written, organized and consistent to user stories. They help the students validating the usability and the goals of the system. They are available on Confluence."
+                    },
+                    {
+                        "id": "_3474",
+                        "points": 4.0,
+                        "description": "Good",
+                        "long_description": "[good deliverable. mostly aligned with designed criteria for this sprint. students do need to do a bit of work to make the deliverable better. Moderate adjustments can be performed]"
+                    },
+                    {
+                        "id": "_5471",
+                        "points": 2.0,
+                        "description": "Inadequate",
+                        "long_description": "[students need to do a significant amount of work to make the deliverable better. MAJOR adjustments must be performed]"
+                    },
+                    {
+                        "id": "_4125",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "51737_6668",
+                "points": 1.0,
+                "description": "GitHub",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "51737_5389",
+                        "points": 1.0,
+                        "description": "Full Marks",
+                        "long_description": "Folders are structured;\nDocuments were added to the repository (and are updated);\nA baseline tag was generated for this delivery."
+                    },
+                    {
+                        "id": "51737_9354",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "51737_5215",
+                "points": 2.0,
+                "description": "Video recording length",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "51737_4564",
+                        "points": 2.0,
+                        "description": "Video is between 5-12mins",
+                        "long_description": ""
+                    },
+                    {
+                        "id": "51737_2739",
+                        "points": 0.0,
+                        "description": "Video is longer than 12mins",
+                        "long_description": ""
+                    }
+                ]
+            }
+        ],
+        "rubric_settings": {
+            "id": 51737,
+            "title": "SPRINT 3",
+            "points_possible": 20.0,
+            "free_form_criterion_comments": false,
+            "hide_score_total": false,
+            "hide_points": true
+        },
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198638/submissions?zip=1",
+        "post_manually": true,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 198639,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p><span>Deliverable 4 will be due on Sunday 16 May, 23.59 Hrs. This is, the end of Week 9. This deliverable will be worth 25/60 marks of the project component.</span></p>\n<p>&nbsp;</p>\n<h2>Acceptance Criteria&nbsp;</h2>\n<p>The User Acceptance Criteria will follow a template (either defined by you or from the examples during the lectures). This artefact will be assessed based on all the user stories except for Feedback (which will be considered at the end of the semester).</p>\n<p>Important criteria to be consider as part of your deliverable:</p>\n<ul>\n<li>Complete: The acceptance criteria completely cover all the capabilities required by the client.</li>\n<li>Consistency: The acceptance criteria are consistent with the client's expected behaviour of the problem and with user stories.</li>\n<li>Narrative: The acceptance criteria present a narrative consistent with capabilities relevant for the client.</li>\n<li>Presentation: The acceptance criteria document is clearly laid out. The tests contain no typos or spelling errors.</li>\n</ul>\n<p>&nbsp;</p>\n<h2>Acceptance Tests</h2>\n<p>The User Acceptance Tests will follow a template (either defined by you or from the examples during the lectures). This artefact will be assessed based on all the assessment criteria except for Feedback (which will be considered at the end of the semester).</p>\n<p>Important criteria to be consider as part of your deliverable:</p>\n<ul>\n<li>Complete: The acceptance tests completely cover all the capabilities required by the client.</li>\n<li>Consistency: The acceptance tests are consistent with the client's expected behaviour of the problem and with other artefacts.</li>\n<li>Realistic: The acceptance test use realistic data as inputs and outputs.</li>\n<li>Narrative: The acceptance tests present a narrative consistent with capabilities relevant for the client.</li>\n<li>Presentation: The acceptance test document is clearly laid out. The tests contain no typos or spelling errors.</li>\n</ul>\n<h2>&nbsp;</h2>\n<h2>Mood board</h2>\n<p>Make sure you\u2019ve considered the client\u2019s feedback (paper prototype) on your designs. The client\u2019s feedback should also be available on Confluence.</p>\n<p>One way of showing how complete, consistent and realistic is your moodboard is by linking the received feedback to the screens you\u2019ve designed (and explained how you addressed comments/suggestions). Additionally, why have you decided to use a particular colour palette? What about the elements of your mood board? How these elements link to your goal model, persona and user stories?</p>\n<p>You can come up with a table to link all of this.</p>\n<h2>&nbsp;</h2>\n<h2>Digital Prototype</h2>\n<p>The prototype should be created using Axure or Figma. Deviations to this need to be negotiated with your supervisor and can be accepted if:</p>\n<ul>\n<li>The access to the source file and tool is available for second semester students. <strong>This is, if the access will only be available by paying a registration this will not be accepted</strong></li>\n<li>The tool supports giving access to the prototype via a link, so the client and the assessors do not need to install anything or join any service</li>\n<li>The tool gives at least the same level of functionality and expressiveness as Axure</li>\n</ul>\n<p>Important criteria to be consider as part of your deliverable:</p>\n<ul>\n<li>Complete: The digital prototype completely illustrates the capabilities required by the client.</li>\n<li>Consistency: The digital prototype is consistent with the client's expected behaviour of the problem and with other artefacts.</li>\n<li>Realistic: The digital prototype will contain realistic data as pre-stored data, and as inputs and outputs in its screens (if required).</li>\n<li>Narrative: The digital prototype will present capabilities following a narrative relevant for the client. The narrative will be available along with the prototype (as a set of written instructions, for instance).</li>\n<li>Presentation: The digital prototype will be built without interaction or flow errors. Limited interaction paths consistent with the narrative are acceptable. Clicking an unexpected button with the result of an inconsistent state or inconsistent data is not acceptable. The available interactions and narrative clearly demonstrate the capabilities of the expected system. High-fidelity interactions and look and feel is expected. When possible, client corporate colours and logos should be used (in consultation with the client). The prototype will contain no typos or spelling errors and text will be clear and unambiguous. The source file of the digital prototype will be available in Confluence along with a link to the prototype.</li>\n<li>Software: The digital prototype will be created using Axure or Figma.</li>\n</ul>\n<h2>&nbsp;</h2>\n<h2>Data Sample</h2>\n<ul>\n<li>Complete: The data sample is complete for the most important user stories.</li>\n<li>Consistency: The data sample is consistent with the digital prototype UI</li>\n<li>Realistic: The data sample is realistic.</li>\n</ul>\n<h2>&nbsp;</h2>\n<h2>Traceability Matrix</h2>\n<ul>\n<li>Complete: All the user stories and acceptance tests are listed in the matrix</li>\n</ul>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h2><strong>GitHub</strong></h2>\n<p><strong>Structure your folders as detailed below:</strong></p>\n<p>\u251c\u2500\u2500 docs/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Documentation files (you can create subfolders here to organize your requirements and meeting minutes)</p>\n<p>\u251c\u2500\u2500 tests/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Automated tests</p>\n<p>\u251c\u2500\u2500 prototypes/low fidelity/&nbsp; &nbsp; &nbsp;# low fidelity files (screens, mockups and so on)</p>\n<p>\u251c\u2500\u2500 prototypes/high fidelity/&nbsp; &nbsp; &nbsp;# high fidelity files (screens, source files and so on)</p>\n<p>\u251c\u2500\u2500 ui/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # All the images created for the prototypes (icons, fonts, backgrounds... should be here. This is different from the prototypes' folders.&nbsp; <span style=\"font-family: inherit; font-size: 1rem;\">These are the graphical elements that goes into the prototypes)</span></p>\n<p>\u251c\u2500\u2500 data samples/&nbsp; &nbsp; &nbsp; # Documents you need to generate with all the data (inputs) necessary to simulate/demonstrate your prototype (whatever can be provided as an input in your prototype)&nbsp;</p>\n<p>\u2514\u2500\u2500 README.md</p>\n<p><strong>You don't need to have data in these folders every Sprint. For example, you will only have resources in prototypes/high fidelity/ folder in Sprint 4. Before that, this folder can exist in your GitHub but it'll be empty. This is an incremental process.</strong></p>\n<p>At the end of each sprint, generate a BASELINE TAG from your repository (master branch).</p>\n<p>Format: <strong>SWEN90009_2021_&lt;</strong><strong>TwoDigits</strong><strong>&gt;_&lt;Team&gt;_BL_&lt;sprint&gt; - BL means BASELINE. <span>A&nbsp;</span><em>baseline</em><span>&nbsp;is a reference point in the&nbsp;</span><em>software</em><span>&nbsp;development life cycle marked by the completion and formal approval of a set of predefined work products</span></strong></p>\n<p><strong>Example of TAG in this subject: SWEN90009_2021_CM_Wombat_BL_SPRINT4</strong></p>\n<p>This tag includes ALL the branches that were developed and completed during this Sprint.</p>\n<p>Add a release notes to your README (list the branches that were included in that version).</p>\n<p>&nbsp;</p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": "2021-05-16T13:59:59Z",
+        "unlock_at": null,
+        "lock_at": "2021-05-16T13:59:59Z",
+        "points_possible": 25.0,
+        "grading_type": "points",
+        "assignment_group_id": 214103,
+        "grading_standard_id": null,
+        "created_at": "2021-02-09T23:52:22Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 6,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": 10965,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjA0N2JjMDRlLWE0NWYtNDVkYS05MjE5LTM2N2YwY2E1OGNiNCIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZVx1MDAzY3NwYW5cdTAwM2VEZWxpdmVyYWJsZSA0IHdpbGwgYmUgZHVlIG9uIFN1bmRheSAxNiBNYXksIDIzLjU5IEhycy4gVGhpcyBpcywgdGhlIGVuZCBvZiBXZWVrIDkuIFRoaXMgZGVsaXZlcmFibGUgd2lsbCBiZSB3b3J0aCAyNS82MCBtYXJrcyBvZiB0aGUgcHJvamVjdCBjb21wb25lbnQuXHUwMDNjL3NwYW5cdTAwM2VcdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZVx1MDAyNm5ic3A7XHUwMDNjL3BcdTAwM2Vcblx1MDAzY2gyXHUwMDNlQWNjZXB0YW5jZSBDcml0ZXJpYVx1MDAyNm5ic3A7XHUwMDNjL2gyXHUwMDNlXG5cdTAwM2NwXHUwMDNlVGhlIFVzZXIgQWNjZXB0YW5jZSBDcml0ZXJpYSB3aWxsIGZvbGxvdyBhIHRlbXBsYXRlIChlaXRoZXIgZGVmaW5lZCBieSB5b3Ugb3IgZnJvbSB0aGUgZXhhbXBsZXMgZHVyaW5nIHRoZSBsZWN0dXJlcykuIFRoaXMgYXJ0ZWZhY3Qgd2lsbCBiZSBhc3Nlc3NlZCBiYXNlZCBvbiBhbGwgdGhlIHVzZXIgc3RvcmllcyBleGNlcHQgZm9yIEZlZWRiYWNrICh3aGljaCB3aWxsIGJlIGNvbnNpZGVyZWQgYXQgdGhlIGVuZCBvZiB0aGUgc2VtZXN0ZXIpLlx1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlSW1wb3J0YW50IGNyaXRlcmlhIHRvIGJlIGNvbnNpZGVyIGFzIHBhcnQgb2YgeW91ciBkZWxpdmVyYWJsZTpcdTAwM2MvcFx1MDAzZVxuXHUwMDNjdWxcdTAwM2Vcblx1MDAzY2xpXHUwMDNlQ29tcGxldGU6IFRoZSBhY2NlcHRhbmNlIGNyaXRlcmlhIGNvbXBsZXRlbHkgY292ZXIgYWxsIHRoZSBjYXBhYmlsaXRpZXMgcmVxdWlyZWQgYnkgdGhlIGNsaWVudC5cdTAwM2MvbGlcdTAwM2Vcblx1MDAzY2xpXHUwMDNlQ29uc2lzdGVuY3k6IFRoZSBhY2NlcHRhbmNlIGNyaXRlcmlhIGFyZSBjb25zaXN0ZW50IHdpdGggdGhlIGNsaWVudCdzIGV4cGVjdGVkIGJlaGF2aW91ciBvZiB0aGUgcHJvYmxlbSBhbmQgd2l0aCB1c2VyIHN0b3JpZXMuXHUwMDNjL2xpXHUwMDNlXG5cdTAwM2NsaVx1MDAzZU5hcnJhdGl2ZTogVGhlIGFjY2VwdGFuY2UgY3JpdGVyaWEgcHJlc2VudCBhIG5hcnJhdGl2ZSBjb25zaXN0ZW50IHdpdGggY2FwYWJpbGl0aWVzIHJlbGV2YW50IGZvciB0aGUgY2xpZW50Llx1MDAzYy9saVx1MDAzZVxuXHUwMDNjbGlcdTAwM2VQcmVzZW50YXRpb246IFRoZSBhY2NlcHRhbmNlIGNyaXRlcmlhIGRvY3VtZW50IGlzIGNsZWFybHkgbGFpZCBvdS4uLiAodHJ1bmNhdGVkKSJ9.nyoecS36dHd6lyAezmlsMAHHNhvnhGSNHmrX5hsWN_g",
+        "lti_context_id": "047bc04e-a45f-45da-9219-367f0ca58cb4",
+        "course_id": 106570,
+        "name": "Sprint 4: Moodboards, digital prototype, acceptance criteria, acceptance tests, data sample and traceability matrix ",
+        "submission_types": [
+            "none"
+        ],
+        "has_submitted_submissions": false,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": true,
+        "is_quiz_assignment": false,
+        "can_duplicate": true,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198639",
+        "use_rubric_for_grading": false,
+        "free_form_criterion_comments": false,
+        "rubric": [
+            {
+                "id": "_9721",
+                "points": 2.0,
+                "description": "Acceptance Criteria",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "blank",
+                        "points": 2.0,
+                        "description": "Excellent",
+                        "long_description": "Complete: The acceptance criteria completely cover all the capabilities required by the client.\nConsistency: The acceptance criteria are consistent with the client's expected behaviour of the problem and with user stories.\nNarrative: The acceptance criteria present a narrative consistent with capabilities relevant for the client.\nPresentation: The acceptance criteria document is clearly laid out. The tests contain no typos or spelling errors. [minor updates could be performed to improve the existing acceptance criteria]"
+                    },
+                    {
+                        "id": "_704",
+                        "points": 1.0,
+                        "description": "Good",
+                        "long_description": "[a few updates should be performed to improve the existing acceptance criteria]"
+                    },
+                    {
+                        "id": "_6875",
+                        "points": 0.5,
+                        "description": "Inadequate",
+                        "long_description": "[major updates must be performed to improve the existing acceptance criteria]"
+                    },
+                    {
+                        "id": "blank_2",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "_2524",
+                "points": 6.0,
+                "description": "Acceptance Tests",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "_7884",
+                        "points": 6.0,
+                        "description": "Excellent",
+                        "long_description": "Complete: The acceptance tests completely cover all the capabilities required by the client.\nConsistency: The acceptance tests are consistent with the client's expected behaviour of the problem and with other artefacts.\nRealistic: The acceptance test use realistic data as inputs and outputs.\nNarrative: The acceptance tests present a narrative consistent with capabilities relevant for the client.\nPresentation: The acceptance criteria document is clearly laid out. The tests contain no typos or spelling errors.[minor updates could be performed to improve the existing acceptance tests]"
+                    },
+                    {
+                        "id": "_4754",
+                        "points": 3.0,
+                        "description": "Good",
+                        "long_description": "[a few updates should be performed to improve the existing acceptance tests]"
+                    },
+                    {
+                        "id": "_3010",
+                        "points": 1.5,
+                        "description": "Inadequate",
+                        "long_description": "[major updates must be performed to improve the existing acceptance tests]"
+                    },
+                    {
+                        "id": "_6739",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "_4575",
+                "points": 1.0,
+                "description": "Mood board",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "_7657",
+                        "points": 1.0,
+                        "description": "Excellent",
+                        "long_description": "Complete report/document showing how complete, consistent and realistic is the mood board. Explain why you decided to use a colour palette, UI elements and references. [minor updates could be performed to improve the existing mood board]"
+                    },
+                    {
+                        "id": "_1969",
+                        "points": 0.75,
+                        "description": "Good",
+                        "long_description": "[a few updates should be performed to improve the existing mood board]"
+                    },
+                    {
+                        "id": "_1298",
+                        "points": 0.5,
+                        "description": "Inadequate",
+                        "long_description": "[major updates must be performed to improve the existing mood board]"
+                    },
+                    {
+                        "id": "_5143",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "_8473",
+                "points": 10.0,
+                "description": "Digital Prototype",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "_4122",
+                        "points": 10.0,
+                        "description": "Excellent",
+                        "long_description": "Complete: The digital prototype completely illustrates the capabilities required by the client.\nConsistency: The digital prototype is consistent with the client's expected behaviour of the problem and with other artefacts.\nRealistic: The digital prototype will contain realistic data as pre-stored data, and as inputs and outputs in its screens (if required).\nNarrative: The digital prototype will present capabilities following a narrative relevant for the client. The narrative will be available along with the prototype (as a set of written instructions, for instance).\nPresentation: The digital prototype will be built without interaction or flow errors. Limited interaction paths consistent with the narrative are acceptable. Clicking an unexpected button with the result of an inconsistent state or inconsistent data is not acceptable. The available interactions and narrative clearly demonstrate the capabilities of the expected system. High-fidelity interactions and look and feel is expected. When possible, client corporate colours and logos should be used (in consultation with the client). The prototype will contain no typos or spelling errors and text will be clear and unambiguous. The source file of the digital prototype will be available in Confluence along with a link to the prototype.\nSoftware: The digital prototype will be created using Axure or Figma. [minor updates could be performed to improve the existing digital prototype]"
+                    },
+                    {
+                        "id": "_3248",
+                        "points": 7.0,
+                        "description": "Good",
+                        "long_description": "[a few updates should be performed to improve the existing digital prototype]"
+                    },
+                    {
+                        "id": "_8573",
+                        "points": 3.0,
+                        "description": "Inadequate",
+                        "long_description": "[major updates must be performed to improve the existing digital prototypes]"
+                    },
+                    {
+                        "id": "_1502",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "_7037",
+                "points": 3.0,
+                "description": "Data Sample",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "_5822",
+                        "points": 3.0,
+                        "description": "Excellent",
+                        "long_description": "Complete: The data sample is complete for the most important user stories.\nConsistency: The data sample is consistent with the digital prototype UI\nRealistic: The data sample is realistic. [minor updates could be performed to improve the existing data sample/document]"
+                    },
+                    {
+                        "id": "_7872",
+                        "points": 2.0,
+                        "description": "Good",
+                        "long_description": "[a few updates should be performed to improve the existing data sample/document]"
+                    },
+                    {
+                        "id": "_8322",
+                        "points": 1.0,
+                        "description": "Inadequate",
+                        "long_description": "[major updates must be performed to improve the existing data sample/document]"
+                    },
+                    {
+                        "id": "_2007",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "_2103",
+                "points": 2.0,
+                "description": "Traceability Matrix",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "_797",
+                        "points": 2.0,
+                        "description": "Excellent",
+                        "long_description": "Complete: All the user stories and acceptance tests are listed in the matrix. [minor updates could be performed to improve the existing matrix]"
+                    },
+                    {
+                        "id": "_8340",
+                        "points": 1.0,
+                        "description": "Good",
+                        "long_description": "[a few updates should be performed to improve the existing matrix]"
+                    },
+                    {
+                        "id": "_4016",
+                        "points": 0.5,
+                        "description": "Inadequate",
+                        "long_description": "[major updates must be performed to improve the existing matrix]"
+                    },
+                    {
+                        "id": "_8768",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            },
+            {
+                "id": "51863_1512",
+                "points": 1.0,
+                "description": "GitHub",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "51863_5084",
+                        "points": 1.0,
+                        "description": "Full Marks",
+                        "long_description": "Folders are structured;\nDocuments were added to the repository (and are updated);\nA baseline tag was generated for this delivery."
+                    },
+                    {
+                        "id": "51863_8174",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            }
+        ],
+        "rubric_settings": {
+            "id": 51863,
+            "title": "SPRINT 4",
+            "points_possible": 25.0,
+            "free_form_criterion_comments": false,
+            "hide_score_total": false,
+            "hide_points": true
+        },
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198639/submissions?zip=1",
+        "post_manually": true,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 198972,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p>Communication?</p>\n<p>Initiative?</p>\n<p>Collaboration?</p>\n<p>Critical-thinking?</p>\n<p>Team work?</p>\n<p>What happens during creation/development process (during sprints)?</p>\n<p>Peer review to be considered here (students evaluate students).</p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": null,
+        "unlock_at": null,
+        "lock_at": "2021-05-30T13:59:59Z",
+        "points_possible": 10.0,
+        "grading_type": "points",
+        "assignment_group_id": 244219,
+        "grading_standard_id": null,
+        "created_at": "2021-02-10T05:52:14Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 2,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": null,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjUyZDdlNTVhLWMxNjItNDA0OC04Y2Y4LWVlNmFmMTAyN2VmNiIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZUNvbW11bmljYXRpb24_XHUwMDNjL3BcdTAwM2Vcblx1MDAzY3BcdTAwM2VJbml0aWF0aXZlP1x1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlQ29sbGFib3JhdGlvbj9cdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZUNyaXRpY2FsLXRoaW5raW5nP1x1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlVGVhbSB3b3JrP1x1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlV2hhdCBoYXBwZW5zIGR1cmluZyBjcmVhdGlvbi9kZXZlbG9wbWVudCBwcm9jZXNzIChkdXJpbmcgc3ByaW50cyk_XHUwMDNjL3BcdTAwM2Vcblx1MDAzY3BcdTAwM2VQZWVyIHJldmlldyB0byBiZSBjb25zaWRlcmVkIGhlcmUgKHN0dWRlbnRzIGV2YWx1YXRlIHN0dWRlbnRzKS5cdTAwM2MvcFx1MDAzZSJ9.awopYwuBMxtIC93fKuNJOvA0jQju_iW8SzvBXShk-vE",
+        "lti_context_id": "52d7e55a-c162-4048-8cf8-ee6af1027ef6",
+        "course_id": 106570,
+        "name": "Process elements",
+        "submission_types": [
+            "none"
+        ],
+        "has_submitted_submissions": false,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": true,
+        "is_quiz_assignment": false,
+        "can_duplicate": true,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198972",
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198972/submissions?zip=1",
+        "post_manually": true,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 198973,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p>Use of Confluence and Github in the subject.</p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": null,
+        "unlock_at": null,
+        "lock_at": "2021-05-30T13:59:59Z",
+        "points_possible": 10.0,
+        "grading_type": "points",
+        "assignment_group_id": 244219,
+        "grading_standard_id": null,
+        "created_at": "2021-02-10T05:53:41Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 3,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": null,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6ImI3N2NhYjVhLTU5YzItNGE1Yy1iZmY2LTFkOWVmYjIyODg0ZCIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZVVzZSBvZiBDb25mbHVlbmNlIGFuZCBHaXRodWIgaW4gdGhlIHN1YmplY3QuXHUwMDNjL3BcdTAwM2UifQ.fU190_J6cqc2cF3crRWETl949sxg4TFdsYoK7xjQvLA",
+        "lti_context_id": "b77cab5a-59c2-4a5c-bff6-1d9efb22884d",
+        "course_id": 106570,
+        "name": "Tools",
+        "submission_types": [
+            "none"
+        ],
+        "has_submitted_submissions": false,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": true,
+        "is_quiz_assignment": false,
+        "can_duplicate": true,
+        "original_course_id": 106570,
+        "original_assignment_id": 198972,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": "Process elements",
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198973",
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198973/submissions?zip=1",
+        "post_manually": true,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 212670,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p>Hi everyone,</p>\n<p>Welcome to our very first peer assessment review in the subject.</p>\n<p>This is an individual mandatory task. <strong>Everyone </strong>needs to participate, assess and provide feedback to peers. Please spend some time in this activity. It's very important each and all of you provide insightful feedback to your team members. Regardless of having a great or bad team experience, you are encouraged to provide feedback. The survey shouldn't take you longer than 10 minutes to be completed.</p>\n<p>It is essential that everyone can contribute equally to group work. The peer assessment form will give us (teaching team) an indication when this is not the case.</p>\n<p><strong>Deadline to provide feedback: Apr 16 (11.59pm) [<span style=\"background-color: #fbeeb8;\">no extensions will be provided</span>]</strong><br>Feedback will be available to you: After review deadline<br>Deadline to provide self-reflection: Apr 23 (11.59pm)</p>\n<p>Peer review grading breakdown is shown below:</p>\n<p><img src=\"https://unimelb-prod.instructure.com/courses/106570/files/7110516/preview?verifier=yG3KXfC6RKqUYVRFtEu5BYkleNt003tQwlucZlAO\" alt=\"peerreview.png\" data-api-endpoint=\"https://unimelb-prod.instructure.com/api/v1/courses/106570/files/7110516\" data-api-returntype=\"File\">&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p>I hope the following guideline can help you with your assessment:</p>\n<p>(i)Before you even make your first comment, read the survey all the way through;</p>\n<p>(ii) If something is unclear, do not ignore the item but ask the lecturer for clarification;</p>\n<p>(iii)Point out the strengths as well as the weaknesses of the team member you're assessing;</p>\n<p>(iv)Comments should be appropriate, respectful and constructive. There is no need to be rude. Be respectful and considerate of the other's feelings. (Would you like to receive the comments/feedback you wrote? Are they clear, helpful and respectful? Are they helping the other person to reflect and understand what happened or is currently happening in the project?);</p>\n<p>(v)Be sure that your comments are clear and specific so that your peer will know what you are referring to. Provide examples if possible;</p>\n<p>(vi)Follow the feedback form and the issues you are supposed to address;</p>\n<p>(vii)Reread your comments before submitting your contributions. Make sure all your comments make sense and are easy to follow.</p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": "2021-04-16T13:59:59Z",
+        "unlock_at": "2021-03-30T13:00:00Z",
+        "lock_at": "2021-05-30T13:59:59Z",
+        "points_possible": 0.0,
+        "grading_type": "points",
+        "assignment_group_id": 244219,
+        "grading_standard_id": null,
+        "created_at": "2021-04-01T03:03:56Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 4,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": null,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjBkZjVmYzQyLThiOTktNGY2Mi05ODBlLTUxMTJmZTE0YmYwMSIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZUhpIGV2ZXJ5b25lLFx1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlV2VsY29tZSB0byBvdXIgdmVyeSBmaXJzdCBwZWVyIGFzc2Vzc21lbnQgcmV2aWV3IGluIHRoZSBzdWJqZWN0Llx1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlVGhpcyBpcyBhbiBpbmRpdmlkdWFsIG1hbmRhdG9yeSB0YXNrLiBcdTAwM2NzdHJvbmdcdTAwM2VFdmVyeW9uZSBcdTAwM2Mvc3Ryb25nXHUwMDNlbmVlZHMgdG8gcGFydGljaXBhdGUsIGFzc2VzcyBhbmQgcHJvdmlkZSBmZWVkYmFjayB0byBwZWVycy4gUGxlYXNlIHNwZW5kIHNvbWUgdGltZSBpbiB0aGlzIGFjdGl2aXR5LiBJdCdzIHZlcnkgaW1wb3J0YW50IGVhY2ggYW5kIGFsbCBvZiB5b3UgcHJvdmlkZSBpbnNpZ2h0ZnVsIGZlZWRiYWNrIHRvIHlvdXIgdGVhbSBtZW1iZXJzLiBSZWdhcmRsZXNzIG9mIGhhdmluZyBhIGdyZWF0IG9yIGJhZCB0ZWFtIGV4cGVyaWVuY2UsIHlvdSBhcmUgZW5jb3VyYWdlZCB0byBwcm92aWRlIGZlZWRiYWNrLiBUaGUgc3VydmV5IHNob3VsZG4ndCB0YWtlIHlvdSBsb25nZXIgdGhhbiAxMCBtaW51dGVzIHRvIGJlIGNvbXBsZXRlZC5cdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZUl0IGlzIGVzc2VudGlhbCB0aGF0IGV2ZXJ5b25lIGNhbiBjb250cmlidXRlIGVxdWFsbHkgdG8gZ3JvdXAgd29yay4gVGhlIHBlZXIgYXNzZXNzbWVudCBmb3JtIHdpbGwgZ2l2ZSB1cyAodGVhY2hpbmcgdGVhbSkgYW4gaW5kaWNhdGlvbiB3aGVuIHRoaXMgaXMgbm90IHRoZSBjYXNlLlx1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlXHUwMDNjc3Ryb25nXHUwMDNlRGVhZGxpbmUgdG8gcHJvdmlkZSBmZWVkYmFjazogQXByIDE2ICgxMS41OXBtKSBbXHUwMDNjc3BhbiBzdHlsZT1cImJhY2tncm91bmQtY29sb3I6ICNmYmVlYjg7XCJcdTAwM2VubyBleHRlbnNpb25zIHdpbGwgYmUgcHJvdmlkZWRcdTAwM2Mvc3Bhblx1MDAzZV1cdTAwM2Mvc3Ryb25nXHUwMDNlXHUwMDNjYnJcdTAwM2VGZWVkYmFjayB3aWxsIGJlIGF2YWlsYWJsZSB0byB5b3U6IEFmdGVyIHJldmlldyBkZWFkbGluZVx1MDAzY2JyXHUwMDNlRGVhZGxpbmUgdG8gcHJvdmlkZSBzZWxmLXJlZmxlY3Rpb246IEFwciAyMyAoMTEuNTlwbSlcdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZVBlZXIgcmV2aWV3IGdyYWRpbmcgYnJlYWtkLi4uICh0cnVuY2F0ZWQpIn0.INyfs-tefJFuMhO-zfn0ZK6J4IEl8JUVdR0uvwrST8Y",
+        "lti_context_id": "0df5fc42-8b99-4f62-980e-5112fe14bf01",
+        "course_id": 106570,
+        "name": "Peer Review #1",
+        "submission_types": [
+            "external_tool"
+        ],
+        "has_submitted_submissions": false,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": false,
+        "is_quiz_assignment": false,
+        "can_duplicate": false,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "external_tool_tag_attributes": {
+            "url": "https://au-api.feedbackfruits.com/v1/lti/launch/groupfeedback?code=87cda598cadc2d1cc433305b16331903c7a1242781b073bd601e426cd0b66984&type=assignment",
+            "new_tab": true,
+            "resource_link_id": "940bbb22ec5ea959206e9e932b481ceba6616df3",
+            "external_data": "",
+            "content_type": "ContextExternalTool",
+            "content_id": 1915,
+            "custom_params": null
+        },
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/212670",
+        "url": "https://unimelb-prod.instructure.com/api/v1/courses/106570/external_tools/sessionless_launch?assignment_id=212670&launch_type=assessment",
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/212670/submissions?zip=1",
+        "post_manually": false,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 217932,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">Hi everyone,</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">Welcome to our final peer assessment review in the subject.</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">This is an individual mandatory task.<span>&nbsp;</span><strong>Everyone<span>&nbsp;</span></strong>needs to participate, assess and provide feedback to peers. Please spend some time in this activity. It's very important each and all of you provide insightful feedback to your team members. Regardless of having a great or bad team experience, you are encouraged to provide feedback. The survey shouldn't take you longer than 10 minutes to be completed.</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">It is essential that everyone can contribute equally to group work. The peer assessment form will give us (teaching team) an indication when this is not the case.</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \"><strong>Deadline to provide feedback: May 18 (11.59pm) [<span style=\"background-color: #fbeeb8;\">no extensions will be provided</span>]</strong><br>Feedback will be available to you: After review deadline<br>Deadline to provide self-reflection: May 25 (11.59pm)</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">Peer review grading breakdown is shown below:</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \"><img src=\"https://unimelb-prod.instructure.com/courses/106570/files/7110516/preview?verifier=yG3KXfC6RKqUYVRFtEu5BYkleNt003tQwlucZlAO\" alt=\"peerreview.png\" data-api-endpoint=\"https://unimelb-prod.instructure.com/api/v1/courses/106570/files/7110516\" data-api-returntype=\"File\"></p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">&nbsp;</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">I hope the following guideline can help you with your assessment:</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">(i)Before you even make your first comment, read the survey all the way through;</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">(ii) If something is unclear, do not ignore the item but ask the lecturer for clarification;</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">(iii)Point out the strengths as well as the weaknesses of the team member you're assessing;</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">(iv)Comments should be appropriate, respectful and constructive. There is no need to be rude. Be respectful and considerate of the other's feelings. (Would you like to receive the comments/feedback you wrote? Are they clear, helpful and respectful? Are they helping the other person to reflect and understand what happened or is currently happening in the project?);</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">(v)Be sure that your comments are clear and specific so that your peer will know what you are referring to. Provide examples if possible;</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">(vi)Follow the feedback form and the issues you are supposed to address;</p>\n<p style=\"margin: 12px 0px; color: #31465c; font-family: 'Lato Extended', Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal;      text-align: start; text-indent: 0px;  white-space: normal;    background-color: #ffffff;   \">(vii)Reread your comments before submitting your contributions. Make sure all your comments make sense and are easy to follow.</p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": "2021-05-30T13:59:59Z",
+        "unlock_at": null,
+        "lock_at": null,
+        "points_possible": 0.0,
+        "grading_type": "points",
+        "assignment_group_id": 244219,
+        "grading_standard_id": null,
+        "created_at": "2021-05-04T03:51:57Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 5,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": null,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjQ4OGVlYTZiLTJiODYtNDE3YS1hM2UwLTgxOTVjZTQ1YzQwMiIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcCBzdHlsZT1cIm1hcmdpbjogMTJweCAwcHg7IGNvbG9yOiAjMzE0NjVjOyBmb250LWZhbWlseTogJ0xhdG8gRXh0ZW5kZWQnLCBMYXRvLCAnSGVsdmV0aWNhIE5ldWUnLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE2cHg7IGZvbnQtc3R5bGU6IG5vcm1hbDsgICAgICB0ZXh0LWFsaWduOiBzdGFydDsgdGV4dC1pbmRlbnQ6IDBweDsgIHdoaXRlLXNwYWNlOiBub3JtYWw7ICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmZmZmY7ICAgXCJcdTAwM2VIaSBldmVyeW9uZSxcdTAwM2MvcFx1MDAzZVxuXHUwMDNjcCBzdHlsZT1cIm1hcmdpbjogMTJweCAwcHg7IGNvbG9yOiAjMzE0NjVjOyBmb250LWZhbWlseTogJ0xhdG8gRXh0ZW5kZWQnLCBMYXRvLCAnSGVsdmV0aWNhIE5ldWUnLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE2cHg7IGZvbnQtc3R5bGU6IG5vcm1hbDsgICAgICB0ZXh0LWFsaWduOiBzdGFydDsgdGV4dC1pbmRlbnQ6IDBweDsgIHdoaXRlLXNwYWNlOiBub3JtYWw7ICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmZmZmY7ICAgXCJcdTAwM2VXZWxjb21lIHRvIG91ciBmaW5hbCBwZWVyIGFzc2Vzc21lbnQgcmV2aWV3IGluIHRoZSBzdWJqZWN0Llx1MDAzYy9wXHUwMDNlXG5cdTAwM2NwIHN0eWxlPVwibWFyZ2luOiAxMnB4IDBweDsgY29sb3I6ICMzMTQ2NWM7IGZvbnQtZmFtaWx5OiAnTGF0byBFeHRlbmRlZCcsIExhdG8sICdIZWx2ZXRpY2EgTmV1ZScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTZweDsgZm9udC1zdHlsZTogbm9ybWFsOyAgICAgIHRleHQtYWxpZ246IHN0YXJ0OyB0ZXh0LWluZGVudDogMHB4OyAgd2hpdGUtc3BhY2U6IG5vcm1hbDsgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmZjsgICBcIlx1MDAzZVRoaXMgaXMgYW4gaW5kaXZpZHVhbCBtYW5kYXRvcnkgdGFzay5cdTAwM2NzcGFuXHUwMDNlXHUwMDI2bmJzcDtcdTAwM2Mvc3Bhblx1MDAzZVx1MDAzY3N0cm9uZ1x1MDAzZUV2ZXJ5b25lXHUwMDNjc3Bhblx1MDAzZVx1MDAyNm5ic3A7XHUwMDNjL3NwYW5cdTAwM2VcdTAwM2Mvc3Ryb25nXHUwMDNlbmVlZHMgdG8gcGFydGljLi4uICh0cnVuY2F0ZWQpIn0.hOKBbX2GhuB964S2kAGViVZgYcI74ax7LXhsFP00bzU",
+        "lti_context_id": "488eea6b-2b86-417a-a3e0-8195ce45c402",
+        "course_id": 106570,
+        "name": "Peer Review #2",
+        "submission_types": [
+            "external_tool"
+        ],
+        "has_submitted_submissions": false,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": false,
+        "is_quiz_assignment": false,
+        "can_duplicate": false,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "external_tool_tag_attributes": {
+            "url": "https://au-api.feedbackfruits.com/v1/lti/launch/groupfeedback?code=c8e43643ae3e57a416bbd5a0a6bda0312a3fecca7cfe6d29de6efd9d7b1b3194&type=assignment",
+            "new_tab": true,
+            "resource_link_id": "158489c2c0e32d8fe7b9db69510e80b9fd4d9421",
+            "external_data": "",
+            "content_type": "ContextExternalTool",
+            "content_id": 1915,
+            "custom_params": null
+        },
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/217932",
+        "url": "https://unimelb-prod.instructure.com/api/v1/courses/106570/external_tools/sessionless_launch?assignment_id=217932&launch_type=assessment",
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/217932/submissions?zip=1",
+        "post_manually": false,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 198640,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p><span>Your must handover your project to the client in Week 12. This deliverable will be worth 10/20 of the final project component.</span></p>\n<p>&nbsp;</p>\n<h1>Handover</h1>\n<p><strong>Organize your FINAL GitHub repository:</strong></p>\n<ul>\n<li><strong>Documents </strong>(e.g. project background, user stories, journey maps, personas, motivational model, <span style=\"background-color: #fbeeb8;\">final presentation</span> and so on) to be <strong>exported separately</strong> from Confluence as PDF and added to <strong>docs/</strong>.</li>\n<li><strong>Test</strong>&nbsp;documents (acceptance criteria and acceptance tests) to be exported separately and added to <strong>tests/</strong></li>\n<li><strong>Data sample </strong>must provided for the tests. What data did you use to validate your prototypes? Make sure you have this documented and added to <strong>data sample/</strong></li>\n<li><strong>Prototypes (low fidelity and high fidelity) </strong>to be exported and added to \"<strong>prototypes/low fidelity/</strong>\" and \"<strong>prototypes/high fidelity/</strong>\" sub-folders. ALL the screens MUST be added to these folders. Additionally, create a text file in each folder with links to currently existing prototypes in Axure or Figma. Make sure the client and ANYONE can access it. No password or special access required. If we try to access your prototype and for some reason have issues with it, you'll not receive full marks in this sprint.&nbsp;</li>\n<li>All the images and graphical resources you've used in this project must be added to <strong>ui/</strong> sub-folder.</li>\n<li>create a README text file to explain your final release (the folders you created to organize your repository, links to tools, logins, passwords and so on). This will help other people understanding your final deliverable. Also, add the changelog of your project (what was delivered in each sprint).</li>\n<li>Generate a Git <strong>RELEASE </strong>tag: you must create a release tag in your Git repository for this final deliverable in the following format: <span style=\"background-color: #fbeeb8;\"><strong>SWEN90009_2021_RLSE_&lt;project digit&gt;_&lt;animal&gt;</strong></span><a style=\"font-family: inherit; font-size: 1rem;\" href=\"#_ftn1\" name=\"_ftnref1\">[1]</a><span style=\"font-family: inherit; font-size: 1rem;\">. The tag must be created before the submission deadline as this will be used to assess your deliverable (no exceptions) (e.g.: SWEN90009_2021_RLSE_CM_Wombat). The created release tag must be added to your Confluence page (under <strong>Handover </strong>sub-page) as well.</span></li>\n</ul>\n<p><a href=\"#_ftnref1\" name=\"_ftn1\"><span>[1]</span></a><span>Git Basics \u2013 Tagging: <a href=\"https://git-scm.com/book/en/v2/Git-Basics-Tagging\">https://git-scm.com/book/en/v2/Git-Basics-Tagging</a></span></p>\n<p><a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Github-recommendations-1.pdf\" href=\"https://unimelb-prod.instructure.com/courses/106570/files/6731912?verifier=XlUPNJpg61jAF1lCCs5jslCUs9pXFAKANkkbDgkD&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://unimelb-prod.instructure.com/api/v1/courses/106570/files/6731912\" data-api-returntype=\"File\">Github-recommendations-1.pdf</a>&nbsp;&nbsp;</p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": "2021-06-06T13:59:59Z",
+        "unlock_at": null,
+        "lock_at": "2021-06-06T13:59:59Z",
+        "points_possible": 10.0,
+        "grading_type": "points",
+        "assignment_group_id": 244217,
+        "grading_standard_id": null,
+        "created_at": "2021-02-09T23:52:38Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 1,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": 10965,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6Ijk3YTBkZjA0LTdhZjQtNGRkNS05Njc3LWZkYmQwODc4NmM3ZCIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZVx1MDAzY3NwYW5cdTAwM2VZb3VyIG11c3QgaGFuZG92ZXIgeW91ciBwcm9qZWN0IHRvIHRoZSBjbGllbnQgaW4gV2VlayAxMi4gVGhpcyBkZWxpdmVyYWJsZSB3aWxsIGJlIHdvcnRoIDEwLzIwIG9mIHRoZSBmaW5hbCBwcm9qZWN0IGNvbXBvbmVudC5cdTAwM2Mvc3Bhblx1MDAzZVx1MDAzYy9wXHUwMDNlXG5cdTAwM2NwXHUwMDNlXHUwMDI2bmJzcDtcdTAwM2MvcFx1MDAzZVxuXHUwMDNjaDFcdTAwM2VIYW5kb3Zlclx1MDAzYy9oMVx1MDAzZVxuXHUwMDNjcFx1MDAzZVx1MDAzY3N0cm9uZ1x1MDAzZU9yZ2FuaXplIHlvdXIgRklOQUwgR2l0SHViIHJlcG9zaXRvcnk6XHUwMDNjL3N0cm9uZ1x1MDAzZVx1MDAzYy9wXHUwMDNlXG5cdTAwM2N1bFx1MDAzZVxuXHUwMDNjbGlcdTAwM2VcdTAwM2NzdHJvbmdcdTAwM2VEb2N1bWVudHMgXHUwMDNjL3N0cm9uZ1x1MDAzZShlLmcuIHByb2plY3QgYmFja2dyb3VuZCwgdXNlciBzdG9yaWVzLCBqb3VybmV5IG1hcHMsIHBlcnNvbmFzLCBtb3RpdmF0aW9uYWwgbW9kZWwsIFx1MDAzY3NwYW4gc3R5bGU9XCJiYWNrZ3JvdW5kLWNvbG9yOiAjZmJlZWI4O1wiXHUwMDNlZmluYWwgcHJlc2VudGF0aW9uXHUwMDNjL3NwYW5cdTAwM2UgYW5kIHNvIG9uKSB0byBiZSBcdTAwM2NzdHJvbmdcdTAwM2VleHBvcnRlZCBzZXBhcmF0ZWx5XHUwMDNjL3N0cm9uZ1x1MDAzZSBmcm9tIENvbmZsdWVuY2UgYXMgUERGIGFuZCBhZGRlZCB0byBcdTAwM2NzdHJvbmdcdTAwM2Vkb2NzL1x1MDAzYy9zdHJvbmdcdTAwM2UuXHUwMDNjL2xpXHUwMDNlXG5cdTAwM2NsaVx1MDAzZVx1MDAzY3N0cm9uZ1x1MDAzZVRlc3RcdTAwM2Mvc3Ryb25nXHUwMDNlXHUwMDI2bmJzcDtkb2N1bWVudHMgKGFjY2VwdGFuY2UgY3JpdGVyaWEgYW5kIGFjY2VwdGFuY2UgdGVzdHMpIHRvIGJlIGV4cG9ydGVkIHNlcGFyYXRlbHkgYW5kIGFkZGVkIHRvIFx1MDAzY3N0cm9uZ1x1MDAzZXRlc3RzL1x1MDAzYy9zdHJvbmdcdTAwM2VcdTAwM2MvbGlcdTAwM2Vcblx1MDAzY2xpXHUwMDNlXHUwMDNjc3Ryb25nXHUwMDNlRGF0YSBzYW1wbGUgXHUwMDNjL3N0cm9uZ1x1MDAzZW11c3QgcHJvdmlkZWQgZm9yIHRoZSB0ZXN0cy4gV2hhdCBkYXRhIGRpZCB5b3UgdXNlIHRvIHZhbGlkYXRlIHlvdXIgcHJvdG90eXBlcz8gTWFrZSBzdXJlIHlvdSBoYXZlIHRoaXMgZG9jdW1lbnRlZCBhbmQgYWRkZWQgdG8gXHUwMDNjc3Ryb25nXHUwMDNlZGF0YSBzYW1wbGUvXHUwMDNjL3N0cm9uZ1x1MDAzZVx1MDAzYy9saVx1MDAzZVxuXHUwMDNjbGlcdTAwM2VcdTAwM2NzdHJvbmdcdTAwM2VQcm90b3R5cGVzIChsb3cgZmlkZWxpdHkgYW5kIGhpZ2ggZmlkZWxpdHkpIFx1MDAzYy9zdHJvbmdcdTAwM2V0byBiZSBleHBvcnRlZCBhbmQgYWRkZWQuLi4gKHRydW5jYXRlZCkifQ.xJLsrQI9cc_X1eFmFtaHWRmCHl1yrtEQvzM-6BgIFCo",
+        "lti_context_id": "97a0df04-7af4-4dd5-9677-fdbd08786c7d",
+        "course_id": 106570,
+        "name": "Sprint 5: Handover ",
+        "submission_types": [
+            "none"
+        ],
+        "has_submitted_submissions": false,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": true,
+        "is_quiz_assignment": false,
+        "can_duplicate": true,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198640",
+        "use_rubric_for_grading": true,
+        "free_form_criterion_comments": false,
+        "rubric": [
+            {
+                "id": "_2885",
+                "points": 10.0,
+                "description": "Handover",
+                "long_description": "",
+                "criterion_use_range": true,
+                "ratings": [
+                    {
+                        "id": "blank",
+                        "points": 10.0,
+                        "description": "Excellent",
+                        "long_description": "Students created an organized release to the client, including: documents, tests, data samples, prototypes, and images. Everything was packed in a ZIP file, SENT to the client and added to their Confluence space (under Handover page). [minor adjustments could be performed to make the final release even more organized]"
+                    },
+                    {
+                        "id": "_8282",
+                        "points": 7.0,
+                        "description": "Good",
+                        "long_description": "[a few adjustments should be performed to make the final release even more organized] -> missing files, no readme.txt instructions, outdated documents and so on."
+                    },
+                    {
+                        "id": "_4759",
+                        "points": 4.0,
+                        "description": "Inadequate",
+                        "long_description": "[significant adjustments must be performed to make the final release even more organized] -> not a great folder structure, missing most of the resources they've created in the semester, outdated files and other issues."
+                    },
+                    {
+                        "id": "blank_2",
+                        "points": 0.0,
+                        "description": "No Marks",
+                        "long_description": ""
+                    }
+                ]
+            }
+        ],
+        "rubric_settings": {
+            "id": 51870,
+            "title": "SPRINT 5",
+            "points_possible": 10.0,
+            "free_form_criterion_comments": false,
+            "hide_score_total": false,
+            "hide_points": false
+        },
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198640/submissions?zip=1",
+        "post_manually": true,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    },
+    {
+        "id": 198969,
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p>Presentation to staff/client: demonstration of high-fidelity digital prototype including acceptance tests performed and validated (consistent with user stories)</p>\n<p>Assessment criteria &nbsp; &nbsp;<br>5 marks: Slides [layout/colours/typography]. Visual identity. Project itself [complete? great user stories/scenarios?], digital prototype/demo.<br>3 marks: Organization/communication. &nbsp;<br>2 marks: Entertainment</p>\n<p>Final slides to be submitted on the LMS and also uploaded on Confluence.</p><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "due_at": null,
+        "unlock_at": null,
+        "lock_at": "2021-05-28T13:59:59Z",
+        "points_possible": 10.0,
+        "grading_type": "points",
+        "assignment_group_id": 244217,
+        "grading_standard_id": null,
+        "created_at": "2021-02-10T05:50:37Z",
+        "updated_at": "2021-09-09T02:46:09Z",
+        "peer_reviews": false,
+        "automatic_peer_reviews": false,
+        "position": 2,
+        "grade_group_students_individually": false,
+        "anonymous_peer_reviews": false,
+        "group_category_id": null,
+        "post_to_sis": false,
+        "moderated_grading": false,
+        "omit_from_final_grade": false,
+        "intra_group_peer_reviews": false,
+        "anonymous_instructor_annotations": false,
+        "anonymous_grading": false,
+        "graders_anonymous_to_graders": false,
+        "grader_count": 0,
+        "grader_comments_visible_to_graders": true,
+        "final_grader_id": null,
+        "grader_names_visible_to_final_grader": true,
+        "allowed_attempts": -1,
+        "annotatable_attachment_id": null,
+        "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjAwMzc1MDI3LTk0ZWMtNGM0Ny04OGZkLTRhODcxOTViZDZmMiIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZVByZXNlbnRhdGlvbiB0byBzdGFmZi9jbGllbnQ6IGRlbW9uc3RyYXRpb24gb2YgaGlnaC1maWRlbGl0eSBkaWdpdGFsIHByb3RvdHlwZSBpbmNsdWRpbmcgYWNjZXB0YW5jZSB0ZXN0cyBwZXJmb3JtZWQgYW5kIHZhbGlkYXRlZCAoY29uc2lzdGVudCB3aXRoIHVzZXIgc3RvcmllcylcdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZUFzc2Vzc21lbnQgY3JpdGVyaWEgXHUwMDI2bmJzcDsgXHUwMDI2bmJzcDtcdTAwM2Niclx1MDAzZTUgbWFya3M6IFNsaWRlcyBbbGF5b3V0L2NvbG91cnMvdHlwb2dyYXBoeV0uIFZpc3VhbCBpZGVudGl0eS4gUHJvamVjdCBpdHNlbGYgW2NvbXBsZXRlPyBncmVhdCB1c2VyIHN0b3JpZXMvc2NlbmFyaW9zP10sIGRpZ2l0YWwgcHJvdG90eXBlL2RlbW8uXHUwMDNjYnJcdTAwM2UzIG1hcmtzOiBPcmdhbml6YXRpb24vY29tbXVuaWNhdGlvbi4gXHUwMDI2bmJzcDtcdTAwM2Niclx1MDAzZTIgbWFya3M6IEVudGVydGFpbm1lbnRcdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZUZpbmFsIHNsaWRlcyB0byBiZSBzdWJtaXR0ZWQgb24gdGhlIExNUyBhbmQgYWxzbyB1cGxvYWRlZCBvbiBDb25mbHVlbmNlLlx1MDAzYy9wXHUwMDNlIn0.up-qXShPYebUVks3B6CLqIVFwG_IzPt0GJ2mXBUG0yM",
+        "lti_context_id": "00375027-94ec-4c47-88fd-4a87195bd6f2",
+        "course_id": 106570,
+        "name": "Presentation",
+        "submission_types": [
+            "online_upload"
+        ],
+        "has_submitted_submissions": true,
+        "due_date_required": false,
+        "max_name_length": 255,
+        "in_closed_grading_period": false,
+        "graded_submissions_exist": true,
+        "is_quiz_assignment": false,
+        "can_duplicate": true,
+        "original_course_id": null,
+        "original_assignment_id": null,
+        "original_lti_resource_link_id": null,
+        "original_assignment_name": null,
+        "original_quiz_id": null,
+        "workflow_state": "published",
+        "important_dates": false,
+        "muted": true,
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198969",
+        "published": true,
+        "only_visible_to_overrides": false,
+        "locked_for_user": false,
+        "submissions_download_url": "https://unimelb-prod.instructure.com/courses/106570/assignments/198969/submissions?zip=1",
+        "post_manually": true,
+        "anonymize_students": false,
+        "require_lockdown_browser": false
+    }
+]

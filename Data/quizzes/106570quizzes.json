@@ -1,0 +1,73 @@
+[
+    {
+        "id": 103592,
+        "title": "CIS Academic Honesty Training Module",
+        "html_url": "https://unimelb-prod.instructure.com/courses/106570/quizzes/103592",
+        "mobile_url": "https://unimelb-prod.instructure.com/courses/106570/quizzes/103592?force_user=1&persist_headless=1",
+        "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174097/uom-prod-theme-mobile.css\"><p><span>This quiz covers the CIS academic honesty training module, which includes eight 2-minute videos available <a title=\"CIS Academic Honesty Training\" href=\"https://unimelb-prod.instructure.com/courses/106570/modules/520579\" data-api-endpoint=\"https://unimelb-prod.instructure.com/api/v1/courses/106570/modules/520579\" data-api-returntype=\"Module\">here</a>:</span></p>\n<ol>\n<li>Getting help from non-student friends</li>\n<li>Copying the answer from a fellow student</li>\n<li>Getting help from fellow students</li>\n<li>Copying the answer from online sources</li>\n<li>Do not outsource assignments&nbsp;</li>\n<li>Lock screen when leaving your monitor</li>\n<li>Protect your code (Do not share on Github)</li>\n<li>Working and discussing with friends in the right way</li>\n</ol><script src=\"https://instructure-uploads-apse2.s3.ap-southeast-2.amazonaws.com/account_142270000000000001/attachments/12174096/uom-prod-mobile.js\"></script>",
+        "quiz_type": "practice_quiz",
+        "time_limit": null,
+        "timer_autosubmit_disabled": false,
+        "shuffle_answers": true,
+        "show_correct_answers": true,
+        "scoring_policy": "keep_highest",
+        "allowed_attempts": -1,
+        "one_question_at_a_time": false,
+        "question_count": 16,
+        "points_possible": 16.0,
+        "cant_go_back": false,
+        "ip_filter": null,
+        "due_at": null,
+        "lock_at": null,
+        "unlock_at": null,
+        "published": true,
+        "locked_for_user": true,
+        "lock_info": {
+            "missing_permission": "participate_as_student",
+            "asset_string": "quizzes:quiz_103592"
+        },
+        "lock_explanation": "This quiz is currently locked.",
+        "hide_results": null,
+        "show_correct_answers_at": null,
+        "hide_correct_answers_at": null,
+        "all_dates": [
+            {
+                "due_at": null,
+                "unlock_at": null,
+                "lock_at": null,
+                "base": true
+            }
+        ],
+        "can_update": false,
+        "require_lockdown_browser": false,
+        "require_lockdown_browser_for_results": false,
+        "require_lockdown_browser_monitor": false,
+        "lockdown_browser_monitor_data": null,
+        "permissions": {
+            "manage": false,
+            "read": true,
+            "create": false,
+            "update": false,
+            "submit": true,
+            "preview": true,
+            "delete": false,
+            "read_statistics": true,
+            "grade": false,
+            "review_grades": true,
+            "view_answer_audits": false
+        },
+        "quiz_reports_url": "https://unimelb-prod.instructure.com/api/v1/courses/106570/quizzes/103592/reports",
+        "quiz_statistics_url": "https://unimelb-prod.instructure.com/api/v1/courses/106570/quizzes/103592/statistics",
+        "important_dates": false,
+        "quiz_submission_versions_html_url": "https://unimelb-prod.instructure.com/courses/106570/quizzes/103592/submission_versions",
+        "assignment_id": null,
+        "one_time_results": false,
+        "assignment_group_id": 179940,
+        "show_correct_answers_last_attempt": false,
+        "version_number": 5,
+        "has_access_code": false,
+        "post_to_sis": null,
+        "migration_id": null,
+        "in_paced_course": false
+    }
+]

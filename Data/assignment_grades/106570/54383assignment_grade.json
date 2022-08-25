@@ -1,0 +1,297 @@
+[
+    {
+        "assignment_id": 199389,
+        "title": "SWEN90009 2021 Team Form",
+        "unlock_at": "2021-02-21T13:00:00Z",
+        "points_possible": null,
+        "non_digital_submission": true,
+        "multiple_due_dates": false,
+        "due_at": "2021-03-07T12:59:00Z",
+        "status": "floating",
+        "muted": false,
+        "max_score": null,
+        "min_score": null,
+        "first_quartile": null,
+        "median": null,
+        "third_quartile": null,
+        "module_ids": [
+            517718
+        ],
+        "excused": false,
+        "submission": {
+            "posted_at": null,
+            "score": null,
+            "submitted_at": null
+        }
+    },
+    {
+        "assignment_id": 198632,
+        "title": "Letter Agreement Submission",
+        "unlock_at": null,
+        "points_possible": 0.0,
+        "non_digital_submission": false,
+        "multiple_due_dates": false,
+        "due_at": "2021-03-21T12:59:00Z",
+        "status": "on_time",
+        "muted": false,
+        "max_score": null,
+        "min_score": null,
+        "first_quartile": null,
+        "median": null,
+        "third_quartile": null,
+        "module_ids": [
+            521414,
+            540365
+        ],
+        "excused": false,
+        "submission": {
+            "posted_at": null,
+            "score": null,
+            "submitted_at": "2021-03-15T03:00:55Z"
+        }
+    },
+    {
+        "assignment_id": 198636,
+        "title": "Sprint 1: Background, elicitation docs",
+        "unlock_at": null,
+        "points_possible": 5.0,
+        "non_digital_submission": true,
+        "multiple_due_dates": false,
+        "due_at": "2021-03-21T12:59:00Z",
+        "status": "on_time",
+        "muted": false,
+        "max_score": 5.0,
+        "min_score": 2.75,
+        "first_quartile": 3.5,
+        "median": 3.75,
+        "third_quartile": 4.25,
+        "module_ids": [
+            521414,
+            540365
+        ],
+        "excused": false,
+        "submission": {
+            "posted_at": "2021-03-30T23:01:29Z",
+            "score": 4.25,
+            "submitted_at": "2021-03-21T12:59:00Z"
+        }
+    },
+    {
+        "assignment_id": 198637,
+        "title": "Sprint 2: Do/be/feel, goal model and personas",
+        "unlock_at": null,
+        "points_possible": 10.0,
+        "non_digital_submission": true,
+        "multiple_due_dates": false,
+        "due_at": "2021-04-04T13:59:00Z",
+        "status": "on_time",
+        "muted": false,
+        "max_score": 9.5,
+        "min_score": 7.0,
+        "first_quartile": 7.5,
+        "median": 8.25,
+        "third_quartile": 8.5,
+        "module_ids": [
+            521414,
+            543178
+        ],
+        "excused": false,
+        "submission": {
+            "posted_at": "2021-05-26T00:16:23Z",
+            "score": 9.0,
+            "submitted_at": "2021-04-04T13:59:00Z"
+        }
+    },
+    {
+        "assignment_id": 212670,
+        "title": "Peer Review #1",
+        "unlock_at": "2021-03-30T13:00:00Z",
+        "points_possible": 0.0,
+        "non_digital_submission": false,
+        "multiple_due_dates": false,
+        "due_at": "2021-04-16T13:59:00Z",
+        "status": "floating",
+        "muted": false,
+        "max_score": null,
+        "min_score": null,
+        "first_quartile": null,
+        "median": null,
+        "third_quartile": null,
+        "module_ids": [],
+        "excused": false,
+        "submission": {
+            "posted_at": null,
+            "score": null,
+            "submitted_at": null
+        }
+    },
+    {
+        "assignment_id": 198638,
+        "title": "Sprint 3: User stories, paper prototype (video)",
+        "unlock_at": "2021-04-18T14:00:00Z",
+        "points_possible": 20.0,
+        "non_digital_submission": true,
+        "multiple_due_dates": false,
+        "due_at": "2021-04-25T13:59:00Z",
+        "status": "on_time",
+        "muted": false,
+        "max_score": 20.0,
+        "min_score": 15.0,
+        "first_quartile": 16.0,
+        "median": 18.0,
+        "third_quartile": 18.5,
+        "module_ids": [
+            521414,
+            547401
+        ],
+        "excused": false,
+        "submission": {
+            "posted_at": "2021-05-07T05:10:51Z",
+            "score": 18.0,
+            "submitted_at": "2021-04-25T13:59:00Z"
+        }
+    },
+    {
+        "assignment_id": 198639,
+        "title": "Sprint 4: Moodboards, digital prototype, acceptance criteria, acceptance tests, data sample and traceability matrix ",
+        "unlock_at": null,
+        "points_possible": 25.0,
+        "non_digital_submission": true,
+        "multiple_due_dates": false,
+        "due_at": "2021-05-16T13:59:00Z",
+        "status": "on_time",
+        "muted": false,
+        "max_score": 21.5,
+        "min_score": 15.0,
+        "first_quartile": 17.5,
+        "median": 18.0,
+        "third_quartile": 19.0,
+        "module_ids": [
+            521414,
+            557161
+        ],
+        "excused": false,
+        "submission": {
+            "posted_at": "2021-05-31T02:28:19Z",
+            "score": 21.5,
+            "submitted_at": "2021-05-16T13:59:00Z"
+        }
+    },
+    {
+        "assignment_id": 217932,
+        "title": "Peer Review #2",
+        "unlock_at": null,
+        "points_possible": 0.0,
+        "non_digital_submission": false,
+        "multiple_due_dates": false,
+        "due_at": "2021-05-30T13:59:00Z",
+        "status": "floating",
+        "muted": false,
+        "max_score": null,
+        "min_score": null,
+        "first_quartile": null,
+        "median": null,
+        "third_quartile": null,
+        "module_ids": [],
+        "excused": false,
+        "submission": {
+            "posted_at": null,
+            "score": null,
+            "submitted_at": null
+        }
+    },
+    {
+        "assignment_id": 198640,
+        "title": "Sprint 5: Handover ",
+        "unlock_at": null,
+        "points_possible": 10.0,
+        "non_digital_submission": true,
+        "multiple_due_dates": false,
+        "due_at": "2021-06-06T13:59:00Z",
+        "status": "on_time",
+        "muted": false,
+        "max_score": 10.0,
+        "min_score": 2.0,
+        "first_quartile": 7.0,
+        "median": 8.0,
+        "third_quartile": 10.0,
+        "module_ids": [
+            521414
+        ],
+        "excused": false,
+        "submission": {
+            "posted_at": "2021-06-09T04:41:35Z",
+            "score": 7.5,
+            "submitted_at": "2021-06-06T13:59:00Z"
+        }
+    },
+    {
+        "assignment_id": 198969,
+        "title": "Presentation",
+        "unlock_at": null,
+        "points_possible": 10.0,
+        "non_digital_submission": false,
+        "multiple_due_dates": false,
+        "due_at": null,
+        "status": "floating",
+        "muted": false,
+        "max_score": 10.0,
+        "min_score": 5.5,
+        "first_quartile": 6.0,
+        "median": 8.0,
+        "third_quartile": 9.3,
+        "module_ids": [],
+        "excused": false,
+        "submission": {
+            "posted_at": "2021-05-31T02:03:45Z",
+            "score": 8.2,
+            "submitted_at": null
+        }
+    },
+    {
+        "assignment_id": 198972,
+        "title": "Process elements",
+        "unlock_at": null,
+        "points_possible": 10.0,
+        "non_digital_submission": true,
+        "multiple_due_dates": false,
+        "due_at": null,
+        "status": "on_time",
+        "muted": false,
+        "max_score": 10.0,
+        "min_score": 3.0,
+        "first_quartile": 6.0,
+        "median": 8.5,
+        "third_quartile": 10.0,
+        "module_ids": [],
+        "excused": false,
+        "submission": {
+            "posted_at": "2021-06-09T04:34:22Z",
+            "score": 10.0,
+            "submitted_at": "2021-06-02T06:03:28Z"
+        }
+    },
+    {
+        "assignment_id": 198973,
+        "title": "Tools",
+        "unlock_at": null,
+        "points_possible": 10.0,
+        "non_digital_submission": true,
+        "multiple_due_dates": false,
+        "due_at": null,
+        "status": "on_time",
+        "muted": false,
+        "max_score": 10.0,
+        "min_score": 3.0,
+        "first_quartile": 6.0,
+        "median": 8.5,
+        "third_quartile": 10.0,
+        "module_ids": [],
+        "excused": false,
+        "submission": {
+            "posted_at": "2021-06-09T04:34:40Z",
+            "score": 5.0,
+            "submitted_at": "2021-06-03T01:45:43Z"
+        }
+    }
+]
