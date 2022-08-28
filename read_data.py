@@ -16,17 +16,18 @@ def read_basic_df(df_name, start, end, subject_id):
     df1 = pd.DataFrame()
     df2 = df.copy()
     subset = ['account_notifications', 'calendar_events_api', 'account_notifications', 'accounts', 'announcements',
-              'canvadoc_sessions',
-              'conferences', 'custom_data', 'wiki_pages_api', 'wiki_pages', 'tabs', 'search', 'profile', 'lti/lti_apps',
+              'canvadoc_sessions', 'context_module_items_api',
+              'conferences', 'custom_data', 'wiki_pages_api', 'tabs', 'search', 'profile', 'lti/lti_apps',
               'lti/ims/authentication',
               'assignment_groups', 'enrollments_api', 'context', 'context_modules', 'context_modules_api',
-              'external_tools', 'feature_flags', 'users', 'assignments_api', 'discussion_topics_api', 'groups',
+              'feature_flags', 'users', 'assignments_api', 'discussion_topics_api', 'groups',
               'grading_periods',
               'quizzes/quizzes_api', 'submissions_api', 'quizzes/quizzes', 'file_previews']
     df2 = df2[~(df2['controller'].isin(subset))]
     df1['url'] = df2['url']
     df1['controller'] = df2['controller']
     df1['date'] = df2['created_at'].str.slice(0, 10)
+    df1['datetime'] = df2['created_at']
     df1['course_id'] = df1['url'].str.extract('courses/(\d+)')
     df1 = df1[df1['course_id'] == subject_id]
     return df1
@@ -100,33 +101,40 @@ def read_file_df(df1):
     return df_file.groupby(['type', 'download', 'courses_or_ass_id', 'files_id', 'date']).count()
 
 
+def read_lec_cap_df(df1):
+    return df1[df1['url'].str.contains('external_tools/701')]
+
+
 def read_mod_df(df1):
-    df_mod = df1[df1['controller'] == 'context_module_items_api']
+    df_mod = df1[df1['url'].str.contains('module_item_id')]
+
     df_mod['type'] = None
     df_mod['course_id'] = None
     df_mod['mod_id'] = None
-    df_mod['asset_or_item_id'] = None
-    df_mod.loc[df_mod['url'].str.contains('asset_id'), 'type'] = 'asset'
-    df_mod.loc[df_mod['url'].str.contains('items'), 'type'] = 'item'
+    df_mod['file_or_ass_id'] = None
+    df_mod.loc[df_mod['url'].str.contains('assignments'), 'type'] = 'assignments'
+    df_mod.loc[df_mod['url'].str.contains('pages'), 'type'] = 'pages'
+    df_mod.loc[df_mod['url'].str.contains('files'), 'type'] = 'files'
+
     # df_mod
     for i in range(len(df_mod)):
         line = df_mod.iloc[i, 0]
         c_id = re.search('courses/(\d+)', line)
-        m_id = re.search('modules/(\d+)', line)
-        i_id = re.search('items/(\d+)', line)
-        a_id = re.search('asset_id=(\d+)', line)
+        m_id = re.search('module_item_id=(\d+)', line)
+        f_id = re.search('files/(\d+)', line)
+        a_id = re.search('assignments/(\d+)', line)
 
         if c_id:
-            df_mod.iloc[i, 3] = c_id.group(1)
+            df_mod.iloc[i, -4] = c_id.group(1)
         if m_id:
-            df_mod.iloc[i, 5] = m_id.group(1)
-        if i_id:
-            df_mod.iloc[i, 6] = i_id.group(1)
+            df_mod.iloc[i, -2] = m_id.group(1)
+        if f_id:
+            df_mod.iloc[i, -1] = f_id.group(1)
         elif a_id:
-            df_mod.iloc[i, 6] = a_id.group(1)
+            df_mod.iloc[i, -1] = a_id.group(1)
 
-    # df_mod_group = df_mod.groupby(['type', 'course_id', 'mod_id', 'asset_or_item_id', 'date'], dropna=False)
     return df_mod
+
 
 def read_ass_df(df1):
     df_as = df1[df1['controller'] == 'assignments']
@@ -138,9 +146,9 @@ def read_ass_df(df1):
         a_id = re.search('assignments/(\d+)', line)
 
         if c_id:
-            df_as.iloc[i, 3] = c_id.group(1)
+            df_as.iloc[i, -2] = c_id.group(1)
         if a_id:
-            df_as.iloc[i, 4] = a_id.group(1)
+            df_as.iloc[i, -1] = a_id.group(1)
 
     # df_as_group = df_as.groupby(['course_id', 'ass_id', 'date'], dropna=False)
     return df_as

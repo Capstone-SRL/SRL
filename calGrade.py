@@ -1,5 +1,5 @@
 from study_week import study_information
-from read_data import read_df, read_basic_df, read_ass_df, read_dis_df, read_file_df, read_mod_df, read_submission_df, read_ass, read_ass_grade
+from read_data import read_df, read_basic_df, read_ass_df, read_dis_df, read_lec_cap_df, read_file_df, read_mod_df, read_submission_df, read_ass, read_ass_grade
 import datetime
 import pandas as pd
 
@@ -12,6 +12,7 @@ def final_grade(student_id, subject_id):
     assessment_id = study_info['assessment_id']
     start = study_info['start']
     end = study_info['end']
+    exam_period = study_week['w12'][1]
 
     # assignment df
     ass_info = read_ass(f'Data/assignments/{subject_id}assignments.json')
@@ -24,6 +25,7 @@ def final_grade(student_id, subject_id):
     df_ass = read_ass_df(df1)
     df_mod = read_mod_df(df1)
     df_dis = read_dis_df(df1)
+    df_lec_cap = read_lec_cap_df(df1)
 
     df_ass_submission = read_submission_df(df1)
 
@@ -31,12 +33,15 @@ def final_grade(student_id, subject_id):
     c2 = cal_c2grade(df, ass_info, assignment_id, study_week)
     c3 = cal_c3grade(df_ass, assignment_id)
     c4 = cal_c4grade(ass_info, df_ass, df_ass_submission, assessment_id)
+    c5 = cal_c5grade(df, df_lec_cap, df_mod, df_dis, study_week)
     c7 = cal_c7grade(df_ass, ass_info, assignment_id)
     discussion = dis_activity(df_dis, study_week)
     grade = grade_activity(df1, ass_info)
-    ass = ass_activity(df_ass_submission, ass_grade_df, ass_info, assignment_id)
+    ass = ass_activity(df_ass, df_ass_submission, ass_grade_df, ass_info, assignment_id)
+    lec = lecture_capture_activity(df_lec_cap, study_week)
+    exam = exam_activity(df_dis, df_lec_cap, df_mod, exam_period)
 
-    return {**c1, **c2, **c3, **c4, **c7, **discussion, **grade, **ass}
+    return {**c1, **c2, **c3, **c4, **c5, **c7, **discussion, **grade, **ass, **lec, **exam}
 
 
 def get_study_information(subject):
@@ -144,6 +149,53 @@ def cal_c4grade(ass_info, df_ass, df_ass_submission, assessment_id):
     return {'c4_grade': 0}
 
 
+# Examine information from multiple sources in each session
+def cal_c5grade(df, df_lec_cap, df_mod, df_dis, study_week):
+    duration_df = session_duration(df)
+    duration_df[['start', 'end']] = duration_df[['start', 'end']].astype(str)
+    df_lec_cap['datetime'] = df_lec_cap['datetime'].astype(str)
+    df_mod['datetime'] = df_mod['datetime'].astype(str)
+    df_dis['datetime'] = df_dis['datetime'].astype(str)
+
+    # session
+    num_session = len(duration_df)
+    num_source = 0
+
+    for i in range(len(duration_df)):
+        start = duration_df.iloc[i, 0]
+        end = duration_df.iloc[i, 1]
+
+        res = activity_exist(df_lec_cap, start, end) + activity_exist(df_dis, start, end) + activity_exist(df_mod,
+                                                                                                           start, end)
+        if res == 0:
+            num_session -= 1
+        num_source += res
+    session = num_source / num_session
+
+    # week
+    num_source = 0
+    week = {}
+
+    for i in study_week:
+        start = study_week[i][0]
+        end = study_week[i][1]
+        res = activity_exist(df_lec_cap, start, end) + activity_exist(df_dis, start, end) + activity_exist(df_mod,
+                                                                                                           start, end)
+        week[i] = res
+
+    # c5grade
+    if session >= 2:
+        grade = 2
+    elif session >= 1:
+        grade = 1
+    else:
+        grade = 0
+
+    return {'source_visit_session': session,            # average num of sources are visited in each session
+            'source_visit_week': week,                  # num of sources are visited in each study week
+            'c5grade': grade
+            }
+
 # c7: the amount of the feedback of assignment a student check for
 def cal_c7grade(df_ass, ass_info, assignment_id):
     ass_info['id'] = ass_info['id'].astype(str)
@@ -192,24 +244,47 @@ def grade_activity(df1, ass_info):
     return {'check_grade': check_grade}
 
 
-def ass_activity(df_ass_submission, ass_grade_df, ass_info, assignment_id):
+def ass_activity(df_ass, df_ass_submission, ass_grade_df, ass_info, assignment_id):
     ass_info['id'] = ass_info['id'].astype(str)
     df_ass_submission['ass'] = df_ass_submission['ass'].astype(str)
+    df_ass['ass_id'] = df_ass['ass_id'].astype(str)
     ass_grade_df['assignment_id'] = ass_grade_df['assignment_id'].astype(str)
 
     when_submit = {}
     levels = {}
+    check_feedbacks = {}
 
     for i in assignment_id:
         # when submit
-        last_sub = df_ass_submission[df_ass_submission['ass'] == i]['date'].sort_values().values[-1]
         due = ass_info.loc[ass_info['id'] == i, 'due_at'].values[0]
         due_3 = (strtodate(due) - datetime.timedelta(days=3)).strftime("%Y-%m-%d")
+        last_sub = df_ass_submission[df_ass_submission['ass'] == i]
 
-        if last_sub > due_3:
-            when_submit[i] = 'after'
+        # the student doesn't submit the assignment
+        if len(last_sub) == 0:
+            when_submit[i] = 'absent'
+
+        last_sub_before_due = last_sub[last_sub['date'] <= due]
+        last_sub_after_due = last_sub[last_sub['date'] > due]
+
+        # the student submit ass before due
+        if len(last_sub_before_due) != 0:
+            sub_date = last_sub_before_due['date'].sort_values().values[-1]
+            if due_3 < sub_date:
+                when_submit[i] = 'after'
+            else:
+                when_submit[i] = 'before'
         else:
-            when_submit[i] = 'before'
+            # the student submit ass after due
+            when_submit[i] = 'late'
+
+        # whether the student check the feedback
+        check = df_ass[(df_ass['ass_id'] == i) & (df_ass['date'] > due)]
+        if len(last_sub_after_due) != 0 or len(check) != 0:
+            check_feedback = 1
+        else:
+            check_feedback = 0
+        check_feedbacks[i] = check_feedback
 
         # ass grade
         grade_li = list(ass_grade_df[ass_grade_df['assignment_id'] == i].values)[0]
@@ -231,14 +306,38 @@ def ass_activity(df_ass_submission, ass_grade_df, ass_info, assignment_id):
         elif quan3 <= grade and grade <= maxi:
             level = 4
         levels[i] = level
-    return {'when_submit_ass': when_submit,     # when each assignment be submitted, before / in 3 days before due
-            'ass_grade_level': levels,          # the grade level compared to the quantile
+    return {'when_submit_ass': when_submit,  # when each assignment be submitted, before / in 3 days before due
+            'ass_grade_level': levels,  # the grade level compared to the quantile
+            'check_feedback': check_feedbacks  # whether the student check the feedback of each assignment
             }
 
+
+def lecture_capture_activity(df_lec_cap, study_week):
+    lec_cap = {}
+    df_lec_cap['date'] = df_lec_cap['date'].astype(str)
+    for i in study_week.keys():
+        start = study_week[i][0]
+        end = study_week[i][1]
+
+        lec_cap[i] = len(df_lec_cap[(df_lec_cap['date'] >= start) & (df_lec_cap['date'] <= end)])
+    return {'lecture_capture': lec_cap}
+
+
 """Exam Activity"""
+def exam_activity(df_dis, df_lec_cap, df_mod, exam_period):
+    df_dis['date'] = df_dis['date'].astype(str)
+    df_lec_cap['date'] = df_lec_cap['date'].astype(str)
 
+    # check discussion board
+    dis_time = len(df_dis[df_dis['date'] >= exam_period])
+    # check lecture capture
+    lec_time = len(df_lec_cap[df_lec_cap['date'] >= exam_period])
+    # check module
+    mod_time = len(df_mod[df_mod['date'] >= exam_period])
 
-
+    return {'check_discussion': dis_time,
+            'check_lecture_capture': lec_time,
+            'check_module': mod_time}
 
 
 
@@ -331,3 +430,10 @@ def cal_leadup_session(df, ass_df, ass_id):
             leadup_short += 1
 
     return leadup_short, leadup_long, average_session_duration, average_session_times
+
+
+#######################################################
+"""c5 criteria"""
+def activity_exist(df, start, end):
+    res = df[(df['datetime']>=start) & (df['datetime']<=end)]
+    return len(res)
