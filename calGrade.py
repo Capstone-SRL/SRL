@@ -19,7 +19,7 @@ def final_grade(student_id, subject_id):
     ass_grade_df = read_ass_grade(f'Data/assignment_grades/{subject_id}/{student_id}assignment_grade.json')
 
     # pageview df
-    df_name = f'Data/pageview/student_{student_id}_pageviews.xlsx'
+    df_name = f'Data/pageview/{subject_id}/student_{student_id}_pageviews.xlsx'
     df = read_df(df_name)
     df1 = read_basic_df(df_name, start, end, subject_id)
     df_ass = read_ass_df(df1)
@@ -170,7 +170,10 @@ def cal_c5grade(df, df_lec_cap, df_mod, df_dis, study_week):
         if res == 0:
             num_session -= 1
         num_source += res
-    session = num_source / num_session
+    if num_session == 0:
+        session = 0
+    else:
+        session = num_source / num_session
 
     # week
     num_source = 0
@@ -296,8 +299,9 @@ def ass_activity(df_ass, df_ass_submission, ass_grade_df, ass_info, assignment_i
         quan2 = grade_li[4]
         quan3 = grade_li[5]
 
-        level = 0
-        if mini <= grade and grade < quan1:
+        if not grade:
+            level = 0
+        elif mini <= grade and grade < quan1:
             level = 1
         elif quan1 <= grade and grade < quan2:
             level = 2
@@ -382,17 +386,17 @@ def cal_normal_session(df, study_week):
 
     normal_short = 0
     normal_long = 0
-    average_session_duration = []
-    average_session_times = []
+    average_session_duration = {}
+    average_session_times = {}
 
     for i in study_week:
         start = study_week[i][0]
         end = study_week[i][1]
 
         sec_for_week = duration_df[(duration_df['start'] >= start) & (duration_df['end'] <= end)]['sec']
-        average_session_duration.append(sec_for_week.mean())
+        average_session_duration[i] = sec_for_week.mean()
         times_for_week = session_times[(session_times['created_at'] >= start) & (session_times['created_at'] <= end)]
-        average_session_times.append(len(times_for_week) / 7)
+        average_session_times[i] = len(times_for_week) / 7
 
         if sum(sec_for_week >= 50 * 60) > 0:
             normal_short += 1
