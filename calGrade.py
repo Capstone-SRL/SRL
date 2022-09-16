@@ -41,7 +41,7 @@ def final_grade(student_id, subject_id):
     lec = lecture_capture_activity(df_lec_cap, study_week)
     exam = exam_activity(df_dis, df_lec_cap, df_mod, exam_period)
 
-    return {**c1, **c2, **c3, **c4, **c5, **c7, **discussion, **grade, **ass, **lec, **exam}
+    return {**c1, **c2, **c3, **c4, **c5, **c7, **discussion, **ass, **grade, **lec, **exam}
 
 
 def get_study_information(subject):
@@ -251,7 +251,6 @@ def ass_activity(df_ass, df_ass_submission, ass_grade_df, ass_info, assignment_i
     ass_info['id'] = ass_info['id'].astype(str)
     df_ass_submission['ass'] = df_ass_submission['ass'].astype(str)
     df_ass['ass_id'] = df_ass['ass_id'].astype(str)
-    ass_grade_df['assignment_id'] = ass_grade_df['assignment_id'].astype(str)
 
     when_submit = {}
     levels = {}
@@ -262,6 +261,8 @@ def ass_activity(df_ass, df_ass_submission, ass_grade_df, ass_info, assignment_i
         due = ass_info.loc[ass_info['id'] == i, 'due_at'].values[0]
         due_3 = (strtodate(due) - datetime.timedelta(days=3)).strftime("%Y-%m-%d")
         last_sub = df_ass_submission[df_ass_submission['ass'] == i]
+        if ass_grade_df is not None:
+            ass_grade_df['assignment_id'] = ass_grade_df['assignment_id'].astype(str)
 
         # the student doesn't submit the assignment
         if len(last_sub) == 0:
@@ -290,25 +291,30 @@ def ass_activity(df_ass, df_ass_submission, ass_grade_df, ass_info, assignment_i
         check_feedbacks[i] = check_feedback
 
         # ass grade
-        grade_li = list(ass_grade_df[ass_grade_df['assignment_id'] == i].values)[0]
-        sub = grade_li[-1]
-        grade = sub['score']
-        maxi = grade_li[1]
-        mini = grade_li[2]
-        quan1 = grade_li[3]
-        quan2 = grade_li[4]
-        quan3 = grade_li[5]
+        if ass_grade_df is not None:
+            select = list(ass_grade_df[ass_grade_df['assignment_id'] == i].values)
+            if select:
+                grade_li = select[0]
+                sub = grade_li[-1]
+                grade = sub['score']
+                maxi = grade_li[1]
+                mini = grade_li[2]
+                quan1 = grade_li[3]
+                quan2 = grade_li[4]
+                quan3 = grade_li[5]
 
-        if not grade:
-            level = 0
-        elif mini <= grade and grade < quan1:
-            level = 1
-        elif quan1 <= grade and grade < quan2:
-            level = 2
-        elif quan2 <= grade and grade < quan3:
-            level = 3
-        elif quan3 <= grade and grade <= maxi:
-            level = 4
+                if not grade:
+                    level = 0
+                elif mini <= grade and grade < quan1:
+                    level = 1
+                elif quan1 <= grade and grade < quan2:
+                    level = 2
+                elif quan2 <= grade and grade < quan3:
+                    level = 3
+                elif quan3 <= grade and grade <= maxi:
+                    level = 4
+        else:
+            level = -1
         levels[i] = level
     return {'when_submit_ass': when_submit,  # when each assignment be submitted, before / in 3 days before due
             'ass_grade_level': levels,  # the grade level compared to the quantile

@@ -30,6 +30,7 @@ def read_basic_df(df_name, start, end, subject_id):
     df1['datetime'] = df2['created_at']
     df1['course_id'] = df1['url'].str.extract('courses/(\d+)')
     df1 = df1[df1['course_id'] == subject_id]
+
     return df1
 
 
@@ -42,7 +43,10 @@ def read_ass(file):
     return ass
 
 def read_ass_grade(file):
-    ass_grade_df = pd.DataFrame(open_json(file))[
+    js = open_json(file)
+    if 'errors' in js:
+        return None
+    ass_grade_df = pd.DataFrame(js)[
         ['assignment_id', 'max_score', 'min_score', 'first_quartile', 'median', 'third_quartile', 'submission']]
     return ass_grade_df
 
