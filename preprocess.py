@@ -1,5 +1,6 @@
 def unpack(data):
-    li = ['when_submit_ass', 'ass_grade_level', 'check_feedback']
+    li = ['average_leadup_session_duration', 'average_leadup_session_times', 'when_submit_ass', 'ass_grade_level', 'check_feedback']
+
     res = {}
     for i in data:
         ele = data[i]

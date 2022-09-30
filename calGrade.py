@@ -1,5 +1,6 @@
 from study_week import study_information
-from read_data import read_df, read_basic_df, read_ass_df, read_dis_df, read_lec_cap_df, read_file_df, read_mod_df, read_submission_df, read_ass, read_ass_grade
+from read_data import read_df, read_basic_df, read_ass_df, read_dis_df, read_lec_cap_df, read_file_df, \
+    read_mod_df, read_submission_df, read_ass, read_ass_grade, read_final_grade
 import datetime
 import pandas as pd
 
@@ -41,11 +42,17 @@ def final_grade(student_id, subject_id):
     lec = lecture_capture_activity(df_lec_cap, study_week)
     exam = exam_activity(df_dis, df_lec_cap, df_mod, exam_period)
 
-    return {**c1, **c2, **c3, **c4, **c5, **c7, **discussion, **ass, **grade, **lec, **exam}
+    # final grade
+    final_score = read_final_grade(subject_id, student_id)
+
+
+    return {'subject_id': subject_id, 'student_id': student_id,
+            **c1, **c2, **c3, **c4, **c5, **c7, **discussion, **ass, **grade, **lec, **exam, **final_score}
 
 
 def get_study_information(subject):
     return study_information[subject]
+
 
 """marking function criteria"""
 # c1: if check the assignment, module, discussion board in the first four weeks
@@ -409,7 +416,7 @@ def cal_normal_session(df, study_week):
             normal_long += 1
         elif len(sec_for_week) > 0:
             normal_short += 1
-    return normal_short, normal_long, average_session_duration, average_session_times
+    return normal_short/12, normal_long/12, average_session_duration, average_session_times
 
 
 """c2 -- leadup"""
@@ -439,7 +446,7 @@ def cal_leadup_session(df, ass_df, ass_id):
         elif len(sec_for_lead_up) > 0:
             leadup_short += 1
 
-    return leadup_short, leadup_long, average_session_duration, average_session_times
+    return leadup_short/len(ass_id), leadup_long/len(ass_id), average_session_duration, average_session_times
 
 
 #######################################################

@@ -162,6 +162,22 @@ def read_dis_df(df1):
     return df1[(df1['controller']=='discussion_topics')]
 
 
+def read_final_grade(subject_id, student_id):
+    subject_grade = open_json(f'Data/final_grade/{subject_id}final_grade.json')
+    grade_dict = {str(i['user_id']): [i['grades']['final_grade'], i['grades']['final_score']] for i in subject_grade if 'grades' in i}
+
+
+    if student_id in grade_dict:
+        info = grade_dict[student_id]
+        level = info[0]
+        score = info[1]
+    else:
+        level = None
+        score = None
+    # print({'final_grade_level': level, 'final_grade_score': score})
+    return {'final_grade_level': level, 'final_grade_score': score}
+
+
 def open_json(file):
     f = open(file)
     data = json.load(f)

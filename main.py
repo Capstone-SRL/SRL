@@ -18,8 +18,7 @@ if __name__ == '__main__':
         for k in ids:
             student_id = k.split('_')[1]
             print(student_id, subject_id)
-    # student_id = '110760'
-    # subject_id = '128130'
+            # print(final_grade(student_id, subject_id))
             unpack_data = unpack(final_grade(student_id, subject_id))
             res.append(unpack_data)
     pd.DataFrame(res).to_excel('res.xlsx', index=False)
