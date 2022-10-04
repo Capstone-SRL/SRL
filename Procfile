@@ -1,1 +1,1 @@
-web: python main.py --extract 0 --select 0 --predict 0 --display 1
+web: sh setup.sh && streamlit run Streamlit/display_main.py
