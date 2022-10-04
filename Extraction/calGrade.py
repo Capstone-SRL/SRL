@@ -1,5 +1,5 @@
-from study_week import study_information
-from read_data import read_df, read_basic_df, read_ass_df, read_dis_df, read_lec_cap_df, read_file_df, \
+from Extraction.study_week import study_information
+from Extraction.read_data import read_df, read_basic_df, read_ass_df, read_dis_df, read_lec_cap_df, read_file_df, \
     read_mod_df, read_submission_df, read_ass, read_ass_grade, read_final_grade
 import datetime
 import pandas as pd

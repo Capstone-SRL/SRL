@@ -1,0 +1,1 @@
+web: python main.py --extract 0 --select 0 --predict 0 --display 1

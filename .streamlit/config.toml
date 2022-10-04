@@ -1,0 +1,14 @@
+[server]
+headless = true
+enableCORS=false
+port = $PORT
+
+[global]
+dataFrameSerialization = "arrow"
+
+[theme]
+primaryColor = "#826E7A"
+backgroundColor = "#DAE2EF"
+secondaryBackgroundColor = "#8393B4"
+textColor = "#191970"
+font = "sans serif"
