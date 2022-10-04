@@ -1,10 +1,5 @@
 [server]
-headless = true
-enableCORS=false
-port = $PORT
-
-[global]
-dataFrameSerialization = "arrow"
+enableXsrfProtection = false
 
 [theme]
 primaryColor = "#826E7A"
