@@ -3,4 +3,4 @@ numpy
 pandas==1.4.1
 PyExcelerate==0.10.0
 scikit_learn==1.1.2
-streamlit
+streamlit==1.7.0
