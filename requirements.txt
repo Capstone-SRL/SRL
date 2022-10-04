@@ -1,5 +1,5 @@
 matplotlib==3.3.2
-numpy==1.19.2
+numpy==1.21.0
 pandas==1.4.1
 PyExcelerate==0.10.0
 scikit_learn==1.1.2
