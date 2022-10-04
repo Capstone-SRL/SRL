@@ -1,5 +1,7 @@
 [server]
-enableXsrfProtection = false
+headless = true
+enableCORS=false
+port = $PORT
 
 [theme]
 primaryColor = "#826E7A"
