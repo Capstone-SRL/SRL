@@ -1,6 +1,7 @@
-This repository contains codes that used to extract raw data from Canvas API.
+This repository contains codes that used to extract raw data from Canvas API and preprocess raw data into marking function scores for each student.
 
-### Extract_data.py
+
+## Extract_data.py
 data could be extracted for each subject
 #### final grades
 #### assignments grades
@@ -13,11 +14,11 @@ data could be extracted for each students
 #### pageviews
 #### quiz_submission
 
-### study_week.py
+## study_week.py
 predefine the sduty week for each subjects
-### read_data.py
+## read_data.py
 read data from raw data files extracted by the above codes
-### preprocess.py
+## preprocess.py
 process the data again before calculating the marking function scores
 ##calGrade.py
 calculate the scores for each items of marking function (except item6)
