@@ -29,6 +29,7 @@ All functions can be achieved by adding parameters when executing `main.py` file
         | - best_<model_name>_<data_type>_model.pkl: best model with highest accuracy chosen from all models
     | - Model: functions for data preprocessing, selection and prediction
     | - Streamlit: functions for dashboard
+    | - correlation: file for correlation analysis
 ```
 
 - Parameter
