@@ -27,6 +27,8 @@ All functions can be achieved by adding parameters when executing `main.py` file
     | - pkmodel: the storation of all trained model
         | - <model_name>_<data_type>_model.pkl: all models with different data types
         | - best_<model_name>_<data_type>_model.pkl: best model with highest accuracy chosen from all models
+    | - Model: functions for data preprocessing, selection and prediction
+    | - Streamlit: functions for dashboard
 ```
 
 - Parameter
