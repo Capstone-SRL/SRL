@@ -1,9 +1,10 @@
 # SRL
-<add>
+- add
 how to extract data from postman
 
-<add>
+- add
 the meaning of each analysis file and the execution way.
+    
 ### Data extraction, Model training, Prediction and dashborad display
 
 All functions can be achieved by adding parameters when executing `main.py` file.
