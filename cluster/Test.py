@@ -7,6 +7,7 @@ import Clusterings
 from sklearn.decomposition import PCA
 import plotly.express as px
 
+#Step1
 # import data
 # csv file
 # df = pd.read_excel('data/res3.0.xlsx')
@@ -54,25 +55,27 @@ def pca(data,labels, dimension=4):
     fig.show()
     return
 
-# ### Mean Shift
-# num_clu = []
-# num_noise = []
-# eps = np.arange(1,11)
-# for i in eps:
-#     model = Clusterings.meanShift(MF_scores, i)
-#     n_clusters_ = len(set(model.labels_)) - (1 if -1 in model.labels_ else 0)
-#     num_clu.append(n_clusters_)
-#     n_noise_ = list(model.labels_).count(-1)
-#     num_noise.append(n_noise_)
-#
-# fig, ax = plt.subplots()
-# ax.scatter(eps, num_clu, linewidth=2.0)
-# plt.show()
-#
-# fig, ax = plt.subplots()
-# ax.plot(eps, num_noise, linewidth=2.0)
-# plt.show()
+#Step2
+### Mean Shift
+num_clu = []
+num_noise = []
+eps = np.arange(1,11)
+for i in eps:
+    model = Clusterings.meanShift(MF_scores, i)
+    n_clusters_ = len(set(model.labels_)) - (1 if -1 in model.labels_ else 0)
+    num_clu.append(n_clusters_)
+    n_noise_ = list(model.labels_).count(-1)
+    num_noise.append(n_noise_)
 
+fig, ax = plt.subplots()
+ax.scatter(eps, num_clu, linewidth=2.0)
+plt.show()
+
+fig, ax = plt.subplots()
+ax.plot(eps, num_noise, linewidth=2.0)
+plt.show()
+
+#Step3
 pca(full_data,Clusterings.miniBatch(full_data, 2).labels_,4)
 
 
